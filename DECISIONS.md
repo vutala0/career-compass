@@ -25,6 +25,7 @@ This log lives in the repo so the thinking travels with the code.
 | 2026-04-27 | 8 | AI Provider | Gemini (Google AI Studio) | Free tier sufficient for MVP cost-zero validation; existing familiarity reduces ramp time; Gemini 2.5 handles structured outputs reliably for our agentic chain | Anthropic Claude API (rejected: paid-only, unfamiliar, marginal quality edge not worth the cost+learning curve at MVP stage) |
 | 2026-04-27 | 9 | Build methodology | Manual copy-paste with Claude as code-source | Greater control over each step; deliberate review of every change; PM's preference after explicit tradeoff discussion | Claude Code agent (rejected: less control over individual changes despite being faster) |
 | 2026-04-27 | 10 | Project naming | Folder + npm name: `career-compass` (lowercase) | npm naming rules require lowercase; consistency with industry convention; brand decisions belong in deployed product, not folder names | `CareerCompass` (rejected: tooling friction with no user-facing benefit) |
+| 2026-04-27 | 11 | Phase 0 milestone | Live URL: career-compass-alpha-lime.vercel.app · Repo: github.com/vutala0/career-compass | Phase 0 done — pipeline proven before product built | n/a (milestone log entry) |
 
 ---
 
