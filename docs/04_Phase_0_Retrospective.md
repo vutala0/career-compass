@@ -1,22 +1,22 @@
 # Phase 0 — Retrospective
 **Date:** 2026-04-27
-**Duration:** ~[X] hours
+**Duration:** ~[2] hours
 **End state:** Live URL at career-compass-alpha-lime.vercel.app
 
 ## What went well
-[1–2 sentences]
+Following the proper project scaffold structure helps keep all the files in their place.
 
 ## What was harder than expected
-[1–2 sentences — the npm naming hiccup is a candidate]
+Letting Claude code handle everything. I had no visibility on how everything was structured.
 
 ## What was easier than expected
-[1–2 sentences — deployment was probably here]
+Following Claude's instructions.
 
 ## What I'd do differently next time
-[1 sentence]
+Invest more time on finetuning the idea before jumping into the build.
 
 ## What I learned (AI/PM concepts)
-- [List 2–3 from this phase]
+- Structure and documentation are crucial for the project in hand
 
 ## Surprises
-[1 sentence]
+Nothing as of now
