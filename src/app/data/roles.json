@@ -1,0 +1,4855 @@
+[
+  {
+    "id": "role-001",
+    "title": "AI Product Manager",
+    "category": "emerging",
+    "function": "product",
+    "description": "AI Product Manager role in the product function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "cross-functional",
+      "roadmap",
+      "go-to-market",
+      "acquisition",
+      "scaling",
+      "saas",
+      "stakeholder management",
+      "experimentation",
+      "wireframing",
+      "prototyping"
+    ],
+    "experience_range": "5-9 years",
+    "seniority_band": "senior",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Hyderabad",
+        "Bengaluru, Karnataka, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Cyara",
+      "Accellor"
+    ],
+    "tags": [
+      "cross-functional",
+      "roadmap",
+      "go-to-market",
+      "acquisition",
+      "scaling"
+    ],
+    "why_real": "rising-tier 'ai product manager' + early-stage/AI-native context; AI cross-domain non-tech role Verified across 2 live postings as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": true,
+    "_meta": {
+      "posting_count": 2,
+      "emerging_score": 8,
+      "sample_url": "https://jobs.lever.co/cyara/c9ee0d16-0f3c-45d8-a79c-17102ea06e59",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-002",
+    "title": "Business Operations Manager",
+    "category": "emerging",
+    "function": "operations",
+    "description": "Business Operations Manager role in the operations function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "power bi",
+      "excel",
+      "cross-functional",
+      "scaling",
+      "reporting",
+      "dashboards"
+    ],
+    "experience_range": "2-5 years",
+    "seniority_band": "mid",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Bangalore"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Stronghold Investment Management"
+    ],
+    "tags": [
+      "power bi",
+      "excel",
+      "cross-functional",
+      "scaling",
+      "reporting"
+    ],
+    "why_real": "rising-tier 'business operations manager' + early-stage/AI-native context Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 8,
+      "sample_url": "https://job-boards.greenhouse.io/strongholdim/jobs/5101892007",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-003",
+    "title": "Chief of Staff / Founder's Office",
+    "category": "emerging",
+    "function": "generalist",
+    "description": "Chief of Staff / Founder's Office role in the generalist function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "cross-functional",
+      "reporting",
+      "excel",
+      "scaling",
+      "dashboards",
+      "automation",
+      "saas",
+      "enterprise",
+      "forecasting",
+      "stakeholder management"
+    ],
+    "experience_range": "7-12 years",
+    "seniority_band": "staff",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Mumbai Metropolitan Region",
+        "Delhi, India",
+        "Gurugram, Haryana, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Qualcomm",
+      "CloudSEK",
+      "Pepper",
+      "Servotech Renewable Power System Limited",
+      "Wholsum Foods (Slurrp Farm and Mille)",
+      "Varaha",
+      "CredHive",
+      "SKS Enterpprises - Human Resource Planning and Management",
+      "Coverfox Insurance",
+      "Rempact",
+      "Remoat Teams",
+      "Resource Algorithm",
+      "BlackRock",
+      "Pibit.AI",
+      "Cactus Communications",
+      "GreyLabs AI",
+      "ElevenX Capital",
+      "Meesho",
+      "BiteSpeed",
+      "hackajob",
+      "Barclays",
+      "INK IN CAPS",
+      "Dharmik",
+      "Only Much Louder"
+    ],
+    "tags": [
+      "cross-functional",
+      "reporting",
+      "excel",
+      "scaling",
+      "dashboards"
+    ],
+    "why_real": "rising-tier 'chief of staff' + early-stage/AI-native context Verified across 24 live postings as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 24,
+      "emerging_score": 8,
+      "sample_url": "https://in.linkedin.com/jobs/view/manager-chief-of-staff-%E2%80%93-gaoc-site-lead-at-qualcomm-4407376734?trk=public_jobs_topcard-title",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-004",
+    "title": "Customer Operations Manager",
+    "category": "emerging",
+    "function": "customer",
+    "description": "Customer Operations Manager role in the customer function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "csat",
+      "churn",
+      "retention",
+      "salesforce",
+      "cross-functional",
+      "onboarding",
+      "training",
+      "reporting",
+      "automation",
+      "gainsight"
+    ],
+    "experience_range": "7-12 years",
+    "seniority_band": "lead",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Pune/Pimpri-Chinchwad Area",
+        "Hyderabad, Telangana, India",
+        "Delhi, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Laundryheap",
+      "Innovapptive Inc",
+      "Fieldwire by Hilti",
+      "MoonPay",
+      "SITA"
+    ],
+    "tags": [
+      "csat",
+      "churn",
+      "retention",
+      "salesforce",
+      "cross-functional"
+    ],
+    "why_real": "rising title 'customer operations' + early-stage/AI context Verified across 5 live postings as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 5,
+      "emerging_score": 8,
+      "sample_url": "https://apply.workable.com/laundryheap-2/j/C0B5056B27/",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-005",
+    "title": "Customer Program Manager",
+    "category": "emerging",
+    "function": "customer",
+    "description": "Customer Program Manager role in the customer function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "salesforce",
+      "jira",
+      "monday",
+      "slack",
+      "excel",
+      "cross-functional",
+      "training",
+      "saas",
+      "reporting",
+      "dashboards"
+    ],
+    "experience_range": "2-5 years",
+    "seniority_band": "mid",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Bengaluru, India Office"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Fictiv"
+    ],
+    "tags": [
+      "salesforce",
+      "jira",
+      "monday",
+      "slack",
+      "excel"
+    ],
+    "why_real": "rising title 'customer program manager' + early-stage/AI context Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 8,
+      "sample_url": "https://job-boards.greenhouse.io/fictiv/jobs/8501177002",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-006",
+    "title": "Engagement Manager",
+    "category": "emerging",
+    "function": "sales",
+    "description": "Engagement Manager role in the sales function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "cross-functional",
+      "project management",
+      "roadmap",
+      "expansion",
+      "saas",
+      "b2b",
+      "enterprise"
+    ],
+    "experience_range": "2-5 years",
+    "seniority_band": "mid",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Bengaluru, Karnataka, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Postman",
+      "WPP Media",
+      "Quantiphi"
+    ],
+    "tags": [
+      "cross-functional",
+      "project management",
+      "roadmap",
+      "expansion",
+      "saas"
+    ],
+    "why_real": "rising-tier 'engagement manager' + early-stage/AI-native context Verified across 4 live postings as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 4,
+      "emerging_score": 8,
+      "sample_url": "https://job-boards.greenhouse.io/postman/jobs/7719673003",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-007",
+    "title": "Events & Partnerships Manager",
+    "category": "emerging",
+    "function": "sales",
+    "description": "Events & Partnerships Manager role in the sales function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "outreach",
+      "lead generation",
+      "conversion",
+      "acquisition",
+      "closing",
+      "negotiation"
+    ],
+    "experience_range": "2-5 years",
+    "seniority_band": "mid",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Noida, Uttar Pradesh, India"
+      ],
+      "india_demand": "medium"
+    },
+    "real_employers": [
+      "Weekday"
+    ],
+    "tags": [
+      "outreach",
+      "lead generation",
+      "conversion",
+      "acquisition",
+      "closing"
+    ],
+    "why_real": "rising-tier 'partnerships manager' + early-stage/AI-native context Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 8,
+      "sample_url": "https://apply.workable.com/weekday-1/j/4855D11E27/",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-008",
+    "title": "Lifecycle / Growth Marketing Manager",
+    "category": "emerging",
+    "function": "marketing",
+    "description": "Lifecycle / Growth Marketing Manager role in the marketing function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "salesforce",
+      "looker",
+      "tableau",
+      "iterable",
+      "braze",
+      "sql",
+      "cross-functional",
+      "project management",
+      "roadmap",
+      "experimentation"
+    ],
+    "experience_range": "2-5 years",
+    "seniority_band": "mid",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Blink Health",
+      "Ethos Life"
+    ],
+    "tags": [
+      "salesforce",
+      "looker",
+      "tableau",
+      "iterable",
+      "braze"
+    ],
+    "why_real": "rising-tier 'lifecycle marketing' + early-stage/AI-native context Verified across 3 live postings as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 3,
+      "emerging_score": 8,
+      "sample_url": "https://job-boards.greenhouse.io/blinkhealth/jobs/8501231002",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-009",
+    "title": "Marketing Operations Manager",
+    "category": "emerging",
+    "function": "marketing",
+    "description": "Marketing Operations Manager role in the marketing function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "marketing automation",
+      "funnel",
+      "conversion",
+      "attribution",
+      "pipeline",
+      "forecasting",
+      "automation",
+      "saas",
+      "b2b",
+      "enterprise"
+    ],
+    "experience_range": "2-5 years",
+    "seniority_band": "mid",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Bangalore, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Flagright"
+    ],
+    "tags": [
+      "marketing automation",
+      "funnel",
+      "conversion",
+      "attribution",
+      "pipeline"
+    ],
+    "why_real": "rising-tier 'marketing ops' + early-stage/AI-native context Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 8,
+      "sample_url": "https://jobs.ashbyhq.com/flagright.com/57d9e6e6-6502-40c9-96f4-f26144aeb609",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-010",
+    "title": "Performance Marketing Manager",
+    "category": "emerging",
+    "function": "marketing",
+    "description": "Performance Marketing Manager role in the marketing function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "funnel",
+      "conversion",
+      "acquisition",
+      "b2c",
+      "demand generation",
+      "enterprise",
+      "salesforce",
+      "hubspot",
+      "outreach",
+      "a/b testing"
+    ],
+    "experience_range": "2-5 years",
+    "seniority_band": "mid",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Noida, Uttar Pradesh, India",
+        "Gurugram",
+        "Bangalore, Bangalore, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Apna",
+      "Weekday",
+      "IPG Mediabrands",
+      "Apptrove"
+    ],
+    "tags": [
+      "funnel",
+      "conversion",
+      "acquisition",
+      "b2c",
+      "demand generation"
+    ],
+    "why_real": "rising-tier 'performance marketing manager' + early-stage/AI-native context Verified across 4 live postings as of May 2026.",
+    "salary_range": "INR1,500,000 - INR2,500,000 per per-year-salary",
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 4,
+      "emerging_score": 8,
+      "sample_url": "https://apply.workable.com/apna/j/5D0061D54A/",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-011",
+    "title": "Product Manager",
+    "category": "emerging",
+    "function": "product",
+    "description": "Product Manager role in the product function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "roadmap",
+      "cross-functional",
+      "enterprise",
+      "experimentation",
+      "retention",
+      "agile",
+      "sql",
+      "saas",
+      "b2b",
+      "automation"
+    ],
+    "experience_range": "0-2 years",
+    "seniority_band": "junior",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Hyderabad",
+        "Sahibzada Ajit Singh Nagar, Punjab, India",
+        "Bangalore"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Karya",
+      "Hevo Data",
+      "LG Ad Solutions",
+      "Zscaler",
+      "Zinnia India - Employee Referral Board",
+      "Weekday",
+      "Razorpay Software Private Limited",
+      "Glance",
+      "Scopely",
+      "Commvault",
+      "Arcesium LLC",
+      "Smartsheet",
+      "Conga",
+      "Fam",
+      "Aspora",
+      "CloudSEK",
+      "Capco"
+    ],
+    "tags": [
+      "roadmap",
+      "cross-functional",
+      "enterprise",
+      "experimentation",
+      "retention"
+    ],
+    "why_real": "rising-tier 'associate product manager' + early-stage/AI-native context Verified across 17 live postings as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 17,
+      "emerging_score": 8,
+      "sample_url": "https://job-boards.greenhouse.io/karya/jobs/5205891008",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-012",
+    "title": "Product Operations Manager",
+    "category": "emerging",
+    "function": "product",
+    "description": "Product Operations Manager role in the product function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "amplitude",
+      "go-to-market",
+      "automation",
+      "sql",
+      "experimentation",
+      "saas",
+      "b2b",
+      "mixpanel",
+      "pendo",
+      "jira"
+    ],
+    "experience_range": "5-9 years",
+    "seniority_band": "senior",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Noida, Uttar Pradesh, India",
+        "Pune"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "HackerOne",
+      "Zinnia India - Employee Referral Board"
+    ],
+    "tags": [
+      "amplitude",
+      "go-to-market",
+      "automation",
+      "sql",
+      "experimentation"
+    ],
+    "why_real": "rising-tier 'product operations' + early-stage/AI-native context Verified across 2 live postings as of May 2026.",
+    "salary_range": "\u20b926,80,000 - \u20b930,15,000",
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 2,
+      "emerging_score": 8,
+      "sample_url": "https://jobs.ashbyhq.com/hackerone/f12ba5c2-815d-4f3a-9aef-5443373d56f5",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-013",
+    "title": "Strategy & Operations Manager",
+    "category": "emerging",
+    "function": "operations",
+    "description": "Strategy & Operations Manager role in the operations function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "enterprise",
+      "reporting",
+      "cross-functional",
+      "operating model",
+      "agile",
+      "looker",
+      "sql",
+      "python",
+      "conversion",
+      "onboarding"
+    ],
+    "experience_range": "5-9 years",
+    "seniority_band": "senior",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Bangalore - Hybrid",
+        "Bengaluru, Karnataka, India",
+        "Gurugram, Haryana, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "MongoDB",
+      "MoonPay",
+      "Rajneethi"
+    ],
+    "tags": [
+      "enterprise",
+      "reporting",
+      "cross-functional",
+      "operating model",
+      "agile"
+    ],
+    "why_real": "rising-tier 'strategy & operations' + early-stage/AI-native context Verified across 3 live postings as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": true,
+    "_meta": {
+      "posting_count": 3,
+      "emerging_score": 8,
+      "sample_url": "https://in.linkedin.com/jobs/view/senior-strategy-operations-lead-itpmo-at-mongodb-4343836034?trk=public_jobs_topcard-title",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-014",
+    "title": "Trust & Safety Operations Manager",
+    "category": "emerging",
+    "function": "operations",
+    "description": "Trust & Safety Operations Manager role in the operations function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "enterprise",
+      "experimentation",
+      "closing",
+      "onboarding",
+      "scaling",
+      "dashboards"
+    ],
+    "experience_range": "7-12 years",
+    "seniority_band": "lead",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Noida",
+        "Bengaluru"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Bazaarvoice",
+      "Bolster"
+    ],
+    "tags": [
+      "enterprise",
+      "experimentation",
+      "closing",
+      "onboarding",
+      "scaling"
+    ],
+    "why_real": "rising-tier 'trust & safety' + early-stage/AI-native context Verified across 2 live postings as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": true,
+    "_meta": {
+      "posting_count": 2,
+      "emerging_score": 8,
+      "sample_url": "https://jobs.lever.co/bazaarvoice/78d7c636-96e1-4450-a56e-85851ea4a28c",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-015",
+    "title": "UX Researcher",
+    "category": "emerging",
+    "function": "design",
+    "description": "UX Researcher role in the design function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "saas",
+      "reporting",
+      "cross-functional",
+      "enterprise",
+      "storytelling",
+      "pendo",
+      "maze",
+      "roadmap",
+      "experimentation",
+      "user research"
+    ],
+    "experience_range": "5-9 years",
+    "seniority_band": "senior",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Noida, Uttar Pradesh, India",
+        "Bengaluru, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "OneTrust",
+      "Zinnia India - Employee Referral Board",
+      "Zinnia"
+    ],
+    "tags": [
+      "saas",
+      "reporting",
+      "cross-functional",
+      "enterprise",
+      "storytelling"
+    ],
+    "why_real": "rising-tier 'ux researcher' + early-stage/AI-native context Verified across 3 live postings as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 3,
+      "emerging_score": 8,
+      "sample_url": "https://job-boards.greenhouse.io/onetrust/jobs/7825551",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-016",
+    "title": "Brand Manager",
+    "category": "emerging",
+    "function": "marketing",
+    "description": "Brand Manager role in the marketing function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "b2b",
+      "segment",
+      "project management",
+      "b2c",
+      "excel",
+      "stakeholder management",
+      "cross-functional",
+      "roadmap",
+      "go-to-market",
+      "conversion"
+    ],
+    "experience_range": "2-5 years",
+    "seniority_band": "mid",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "New Delhi, Delhi, India",
+        "Gurugram, Haryana, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "PRASUMA",
+      "Luxury Personified"
+    ],
+    "tags": [
+      "b2b",
+      "segment",
+      "project management",
+      "b2c",
+      "excel"
+    ],
+    "why_real": "rising-tier title term 'brand manager' Verified across 2 live postings as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 2,
+      "emerging_score": 7,
+      "sample_url": "https://in.linkedin.com/jobs/view/brand-manager-at-prasuma-4407386562?trk=public_jobs_topcard-title",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-017",
+    "title": "Community Manager",
+    "category": "emerging",
+    "function": "marketing",
+    "description": "Community Manager role in the marketing function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "hubspot",
+      "copywriting",
+      "storytelling"
+    ],
+    "experience_range": "2-5 years",
+    "seniority_band": "mid",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Mumbai, Maharashtra, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "BLAST"
+    ],
+    "tags": [
+      "hubspot",
+      "copywriting",
+      "storytelling"
+    ],
+    "why_real": "rising-tier title term 'community manager' Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": true,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 7,
+      "sample_url": "https://apply.workable.com/blast/j/7F5ED8C1B4/",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-018",
+    "title": "Customer Success Operations Manager",
+    "category": "emerging",
+    "function": "customer",
+    "description": "Customer Success Operations Manager role in the customer function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "reporting",
+      "excel",
+      "onboarding",
+      "gainsight",
+      "planhat",
+      "salesforce",
+      "project management",
+      "nps",
+      "lifecycle",
+      "saas"
+    ],
+    "experience_range": "2-7 years (typical range)",
+    "seniority_band": "unknown",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Pune Division, Maharashtra, India",
+        "Mumbai Metropolitan Region",
+        "Gurugram, Haryana, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Onit India",
+      "Pine Labs",
+      "hackajob",
+      "Colt Technology Services",
+      "Forbes Advisor"
+    ],
+    "tags": [
+      "reporting",
+      "excel",
+      "onboarding",
+      "gainsight",
+      "planhat"
+    ],
+    "why_real": "rising title 'customer success operations' + early-stage/AI context Verified across 5 live postings as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 5,
+      "emerging_score": 7,
+      "sample_url": "https://in.linkedin.com/jobs/view/customer-success-operations-analyst-at-onit-india-4371963161?trk=public_jobs_topcard-title",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-019",
+    "title": "Growth Operations Specialist",
+    "category": "emerging",
+    "function": "operations",
+    "description": "Growth Operations Specialist role in the operations function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "salesforce",
+      "kpi",
+      "onboarding",
+      "lifecycle",
+      "activation",
+      "customer journey"
+    ],
+    "experience_range": "2-7 years (typical range)",
+    "seniority_band": "unknown",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "IN - Bangalore"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Airwallex"
+    ],
+    "tags": [
+      "salesforce",
+      "kpi",
+      "onboarding",
+      "lifecycle",
+      "activation"
+    ],
+    "why_real": "rising title 'growth operations' + early-stage/AI context Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 7,
+      "sample_url": "https://jobs.ashbyhq.com/airwallex/5186d31d-35d4-4b48-a6d8-fe5f4ccd9c07",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-020",
+    "title": "Implementation Manager",
+    "category": "emerging",
+    "function": "customer",
+    "description": "Implementation Manager role in the customer function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "implementation",
+      "saas",
+      "cross-functional",
+      "project management",
+      "nps",
+      "integration",
+      "enablement",
+      "enterprise",
+      "mid-market",
+      "reporting"
+    ],
+    "experience_range": "2-5 years",
+    "seniority_band": "mid",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Bangalore",
+        "Delhi, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Sutra.AI",
+      "CUBE"
+    ],
+    "tags": [
+      "implementation",
+      "saas",
+      "cross-functional",
+      "project management",
+      "nps"
+    ],
+    "why_real": "rising title 'implementation manager' Verified across 2 live postings as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": true,
+    "_meta": {
+      "posting_count": 2,
+      "emerging_score": 7,
+      "sample_url": "https://in.linkedin.com/jobs/view/ai-implementation-manager-at-sutra-ai-4399153380?trk=public_jobs_topcard-title",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-021",
+    "title": "Operations Analyst",
+    "category": "emerging",
+    "function": "data-analyst",
+    "description": "Operations Analyst role in the data-analyst function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "saas",
+      "hubspot",
+      "excel",
+      "reporting",
+      "python",
+      "automation",
+      "salesforce",
+      "closing",
+      "data analysis",
+      "slack"
+    ],
+    "experience_range": "2-7 years (typical range)",
+    "seniority_band": "unknown",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Noida",
+        "Hyderabad",
+        "Bengaluru, Karnataka, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Foxit Software",
+      "Matillion",
+      "BestEx Research"
+    ],
+    "tags": [
+      "saas",
+      "hubspot",
+      "excel",
+      "reporting",
+      "python"
+    ],
+    "why_real": "rising-tier 'operations analyst' + early-stage/AI-native context Verified across 3 live postings as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": true,
+    "_meta": {
+      "posting_count": 3,
+      "emerging_score": 7,
+      "sample_url": "https://jobs.lever.co/foxitsoftware/a7be96a7-1ab2-4b25-bf96-015b8d870d5c",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-022",
+    "title": "Solutions Consultant",
+    "category": "emerging",
+    "function": "sales",
+    "description": "Solutions Consultant role in the sales function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "salesforce",
+      "catalyst",
+      "pipeline",
+      "expansion",
+      "automation",
+      "enterprise"
+    ],
+    "experience_range": "2-7 years (typical range)",
+    "seniority_band": "unknown",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Bengaluru"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Razorpay Software Private Limited"
+    ],
+    "tags": [
+      "salesforce",
+      "catalyst",
+      "pipeline",
+      "expansion",
+      "automation"
+    ],
+    "why_real": "rising-tier 'solutions consultant' + early-stage/AI-native context Verified across 2 live postings as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 2,
+      "emerging_score": 7,
+      "sample_url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4684216005",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-023",
+    "title": "Customer Experience Specialist",
+    "category": "traditional",
+    "function": "customer",
+    "description": "Customer Experience Specialist role in the customer function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "zendesk",
+      "salesforce",
+      "outreach",
+      "project management",
+      "saas",
+      "data analysis",
+      "reporting"
+    ],
+    "experience_range": "2-7 years (typical range)",
+    "seniority_band": "unknown",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Bengaluru, Karnataka, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Nielsen"
+    ],
+    "tags": [
+      "zendesk",
+      "salesforce",
+      "outreach",
+      "project management",
+      "saas"
+    ],
+    "why_real": "rising title 'customer experience specialist' Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 6,
+      "sample_url": "https://in.linkedin.com/jobs/view/customer-experience-specialist-salesforce-data-operations-at-nielsen-4405593010?trk=public_jobs_topcard-title",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-024",
+    "title": "Customer Success Advisor",
+    "category": "traditional",
+    "function": "customer",
+    "description": "Customer Success Advisor role in the customer function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "project management",
+      "onboarding",
+      "expansion",
+      "customer journey",
+      "enterprise",
+      "mid-market"
+    ],
+    "experience_range": "2-7 years (typical range)",
+    "seniority_band": "unknown",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Bengaluru or New Delhi; Bengaluru or New Delhi"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Safe Security"
+    ],
+    "tags": [
+      "project management",
+      "onboarding",
+      "expansion",
+      "customer journey",
+      "enterprise"
+    ],
+    "why_real": "rising title 'customer success advisor' Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 6,
+      "sample_url": "https://jobs.lever.co/safe/f7e686d5-fff1-4b4a-b243-8b86eb353b48",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-025",
+    "title": "HR Operations Analyst",
+    "category": "traditional",
+    "function": "data-analyst",
+    "description": "HR Operations Analyst role in the data-analyst function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "cross-functional",
+      "retention",
+      "acquisition",
+      "automation",
+      "dashboards"
+    ],
+    "experience_range": "2-7 years (typical range)",
+    "seniority_band": "unknown",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Noida, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Sumo Logic"
+    ],
+    "tags": [
+      "cross-functional",
+      "retention",
+      "acquisition",
+      "automation",
+      "dashboards"
+    ],
+    "why_real": "rising-tier title term 'operations analyst' Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 6,
+      "sample_url": "https://job-boards.greenhouse.io/sumologic/jobs/7808995",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-026",
+    "title": "People Ops Coordinator",
+    "category": "traditional",
+    "function": "other",
+    "description": "People Ops Coordinator role in the other function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "closing",
+      "negotiation",
+      "onboarding",
+      "reporting"
+    ],
+    "experience_range": "0-2 years",
+    "seniority_band": "junior",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Born West Inc."
+    ],
+    "tags": [
+      "closing",
+      "negotiation",
+      "onboarding",
+      "reporting"
+    ],
+    "why_real": "rising-tier title term 'people ops' Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": true,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 6,
+      "sample_url": "https://in.linkedin.com/jobs/view/people-ops-coordinator-at-born-west-inc-4407081034?trk=public_jobs_topcard-title",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-027",
+    "title": "Account Executive",
+    "category": "traditional",
+    "function": "sales",
+    "description": "Account Executive role in the sales function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "pipeline",
+      "saas",
+      "enterprise",
+      "sales cycle",
+      "closing",
+      "prospecting",
+      "expansion",
+      "automation",
+      "onboarding",
+      "negotiation"
+    ],
+    "experience_range": "2-7 years (typical range)",
+    "seniority_band": "unknown",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Bengaluru",
+        "Noida, Uttar Pradesh",
+        "Mumbai, IND"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Glean",
+      "Emergent Labs ",
+      "Zscaler",
+      "New Relic",
+      "Paytm",
+      "Brevo",
+      "Weekday",
+      "Commvault"
+    ],
+    "tags": [
+      "pipeline",
+      "saas",
+      "enterprise",
+      "sales cycle",
+      "closing"
+    ],
+    "why_real": "specialized established title 'account executive' Verified across 8 live postings as of May 2026.",
+    "salary_range": "INR300,000 - INR500,000 per per-year-salary",
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 8,
+      "emerging_score": 5,
+      "sample_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4689979005",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-028",
+    "title": "Account Executive, Enterprise Sales",
+    "category": "traditional",
+    "function": "sales",
+    "description": "Account Executive, Enterprise Sales role in the sales function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "tableau",
+      "snowflake",
+      "segment",
+      "excel",
+      "roadmap",
+      "expansion",
+      "saas",
+      "enterprise"
+    ],
+    "experience_range": "5-9 years",
+    "seniority_band": "senior",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Bangalore, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "New Relic"
+    ],
+    "tags": [
+      "tableau",
+      "snowflake",
+      "segment",
+      "excel",
+      "roadmap"
+    ],
+    "why_real": "specialized established title 'account executive' Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 5,
+      "sample_url": "https://job-boards.greenhouse.io/newrelic/jobs/5155778008",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-029",
+    "title": "Account Executive, Mid",
+    "category": "traditional",
+    "function": "sales",
+    "description": "Account Executive, Mid role in the sales function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "go-to-market",
+      "pipeline",
+      "sales cycle",
+      "quota",
+      "closing",
+      "saas",
+      "plg",
+      "product-led",
+      "enterprise"
+    ],
+    "experience_range": "2-7 years (typical range)",
+    "seniority_band": "unknown",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Bengaluru"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "CodeRabbit"
+    ],
+    "tags": [
+      "go-to-market",
+      "pipeline",
+      "sales cycle",
+      "quota",
+      "closing"
+    ],
+    "why_real": "specialized established title 'account executive' Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 5,
+      "sample_url": "https://jobs.ashbyhq.com/coderabbit/37aed08a-f5f0-47e5-8625-38096d44ed72",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-030",
+    "title": "Account Manager",
+    "category": "traditional",
+    "function": "customer",
+    "description": "Account Manager role in the customer function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "automation",
+      "negotiation",
+      "upsell",
+      "onboarding",
+      "segment",
+      "stakeholder management",
+      "cross-sell",
+      "workflow",
+      "cross-functional",
+      "retention"
+    ],
+    "experience_range": "2-5 years",
+    "seniority_band": "mid",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Chennai, Tamil Nadu, India",
+        "Delhi",
+        "Noida, Uttar Pradesh"
+      ],
+      "india_demand": "medium"
+    },
+    "real_employers": [
+      "Weekday",
+      "Dozee",
+      "Paytm Payments Services",
+      "Apna",
+      "Equativ"
+    ],
+    "tags": [
+      "automation",
+      "negotiation",
+      "upsell",
+      "onboarding",
+      "segment"
+    ],
+    "why_real": "specialized established title 'key account manager' Verified across 5 live postings as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 5,
+      "emerging_score": 5,
+      "sample_url": "https://apply.workable.com/weekday-1/j/38A5FD483E/",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-031",
+    "title": "Business Analyst",
+    "category": "traditional",
+    "function": "data-analyst",
+    "description": "Business Analyst role in the data-analyst function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "excel",
+      "sql",
+      "reporting",
+      "dashboards",
+      "cross-functional",
+      "python",
+      "automation",
+      "data analysis",
+      "roadmap",
+      "jira"
+    ],
+    "experience_range": "2-7 years (typical range)",
+    "seniority_band": "unknown",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Gurugram, India",
+        "Chennai, Tamil Nadu, India",
+        "Delhi, Delhi, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "STEM Healthcare",
+      "2070 Health",
+      "Meesho",
+      "WorldQuant",
+      "CRED",
+      "WPP",
+      "Accellor"
+    ],
+    "tags": [
+      "excel",
+      "sql",
+      "reporting",
+      "dashboards",
+      "cross-functional"
+    ],
+    "why_real": "specialized established title 'business analyst' Verified across 7 live postings as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 7,
+      "emerging_score": 5,
+      "sample_url": "https://job-boards.greenhouse.io/stemhealthcare/jobs/7578211",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-032",
+    "title": "Business Development Manager",
+    "category": "traditional",
+    "function": "sales",
+    "description": "Business Development Manager role in the sales function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "expansion",
+      "cross-functional",
+      "lead generation",
+      "conversion",
+      "retention",
+      "prospecting",
+      "pipeline",
+      "sales cycle",
+      "negotiation",
+      "saas"
+    ],
+    "experience_range": "2-5 years",
+    "seniority_band": "mid",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Bengaluru",
+        "Bengaluru, Karnataka, India",
+        "Mumbai, Maharashtra, India"
+      ],
+      "india_demand": "medium"
+    },
+    "real_employers": [
+      "Weekday",
+      "2070 Health",
+      "KRAFTON INDIA"
+    ],
+    "tags": [
+      "expansion",
+      "cross-functional",
+      "lead generation",
+      "conversion",
+      "retention"
+    ],
+    "why_real": "specialized established title 'business development manager' Verified across 3 live postings as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 3,
+      "emerging_score": 5,
+      "sample_url": "https://apply.workable.com/weekday-1/j/C82162989E/",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-033",
+    "title": "Consultant",
+    "category": "traditional",
+    "function": "data-analyst",
+    "description": "Consultant role in the data-analyst function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "jira",
+      "sql",
+      "agile",
+      "enterprise"
+    ],
+    "experience_range": "10+ years",
+    "seniority_band": "principal",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Hyderabad India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Model N"
+    ],
+    "tags": [
+      "jira",
+      "sql",
+      "agile",
+      "enterprise"
+    ],
+    "why_real": "specialized established title 'business analyst' Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": true,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 5,
+      "sample_url": "https://jobs.lever.co/modeln/fc5626a6-cab2-4543-82b0-896d2b6f6728",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-034",
+    "title": "Customer Success Manager",
+    "category": "traditional",
+    "function": "customer",
+    "description": "Customer Success Manager role in the customer function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "saas",
+      "renewal",
+      "expansion",
+      "enterprise",
+      "jira",
+      "confluence",
+      "retention",
+      "churn",
+      "automation",
+      "b2b"
+    ],
+    "experience_range": "2-5 years",
+    "seniority_band": "mid",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Bengaluru, India - Hybrid",
+        "Bengaluru, Karnataka, India",
+        "Mumbai"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "SmartBear",
+      "project44",
+      "Financial Times",
+      "SHIELD",
+      "Fortanix",
+      "Poppulo"
+    ],
+    "tags": [
+      "saas",
+      "renewal",
+      "expansion",
+      "enterprise",
+      "jira"
+    ],
+    "why_real": "specialized established title 'customer success manager' Verified across 6 live postings as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 6,
+      "emerging_score": 5,
+      "sample_url": "https://job-boards.greenhouse.io/smartbear/jobs/7689107003",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-035",
+    "title": "Enterprise Product Manager, Order Management",
+    "category": "traditional",
+    "function": "product",
+    "description": "Enterprise Product Manager, Order Management role in the product function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "snowflake",
+      "sql",
+      "cross-functional",
+      "roadmap",
+      "process optimization",
+      "automation",
+      "scaling",
+      "agile",
+      "scrum",
+      "enterprise"
+    ],
+    "experience_range": "7-12 years",
+    "seniority_band": "staff",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "IN-Pune"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Snowflake"
+    ],
+    "tags": [
+      "snowflake",
+      "sql",
+      "cross-functional",
+      "roadmap",
+      "process optimization"
+    ],
+    "why_real": "specialized established title 'product manager' Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 5,
+      "sample_url": "https://jobs.ashbyhq.com/snowflake/82dd2965-3860-4c43-aced-64c7515fda9f",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-036",
+    "title": "Field Marketing Manager",
+    "category": "traditional",
+    "function": "marketing",
+    "description": "Field Marketing Manager role in the marketing function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "demand generation",
+      "pipeline",
+      "enterprise",
+      "cross-functional",
+      "funnel",
+      "salesforce",
+      "automation",
+      "experimentation",
+      "plg",
+      "product-led"
+    ],
+    "experience_range": "2-5 years",
+    "seniority_band": "mid",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Hyderabad",
+        "Bangalore, IND",
+        "Bengaluru, Karnataka, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Postman",
+      "Shield AI",
+      "Zscaler"
+    ],
+    "tags": [
+      "demand generation",
+      "pipeline",
+      "enterprise",
+      "cross-functional",
+      "funnel"
+    ],
+    "why_real": "specialized established title 'marketing manager' Verified across 3 live postings as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 3,
+      "emerging_score": 5,
+      "sample_url": "https://job-boards.greenhouse.io/postman/jobs/7689314003",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-037",
+    "title": "IT Business Analyst",
+    "category": "traditional",
+    "function": "data-analyst",
+    "description": "IT Business Analyst role in the data-analyst function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "sql",
+      "automation",
+      "enterprise",
+      "data analysis",
+      "reporting",
+      "visualization"
+    ],
+    "experience_range": "2-7 years (typical range)",
+    "seniority_band": "unknown",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Bengaluru, Karnataka, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Unison Consulting Pte Ltd"
+    ],
+    "tags": [
+      "sql",
+      "automation",
+      "enterprise",
+      "data analysis",
+      "reporting"
+    ],
+    "why_real": "specialized established title 'business analyst' Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 5,
+      "sample_url": "https://apply.workable.com/unison-consulting-pte-ltd/j/7332ED1C99/",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-038",
+    "title": "Product Designer",
+    "category": "traditional",
+    "function": "design",
+    "description": "Product Designer role in the design function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "figma",
+      "cross-functional",
+      "user research",
+      "prototyping",
+      "saas",
+      "usability testing",
+      "workflow",
+      "stakeholder management",
+      "onboarding",
+      "b2b"
+    ],
+    "experience_range": "2-7 years (typical range)",
+    "seniority_band": "unknown",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Hyderabad, Telengana, IN",
+        "Pune, Maharashtra, India",
+        "Bengaluru"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Keywords Studios",
+      "StarRez",
+      "Glomopay",
+      "Headout",
+      "Sigmoid, Bengaluru",
+      "OpenFX"
+    ],
+    "tags": [
+      "figma",
+      "cross-functional",
+      "user research",
+      "prototyping",
+      "saas"
+    ],
+    "why_real": "specialized established title 'product designer' Verified across 6 live postings as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": true,
+    "_meta": {
+      "posting_count": 6,
+      "emerging_score": 5,
+      "sample_url": "https://apply.workable.com/keywords-intl1/j/35F62A1742/",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-039",
+    "title": "Product Designer, Design Systems",
+    "category": "traditional",
+    "function": "design",
+    "description": "Product Designer, Design Systems role in the design function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "figma",
+      "roadmap",
+      "conversion",
+      "onboarding",
+      "operating model"
+    ],
+    "experience_range": "7-12 years",
+    "seniority_band": "lead",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Bangalore, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Ethos Life"
+    ],
+    "tags": [
+      "figma",
+      "roadmap",
+      "conversion",
+      "onboarding",
+      "operating model"
+    ],
+    "why_real": "specialized established title 'product designer' Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 5,
+      "sample_url": "https://job-boards.greenhouse.io/ethoslife/jobs/8506201002",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-040",
+    "title": "Product Management",
+    "category": "traditional",
+    "function": "product",
+    "description": "Product Management role in the product function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "metabase",
+      "mixpanel",
+      "amplitude",
+      "sql",
+      "cross-functional",
+      "roadmap",
+      "go-to-market",
+      "a/b testing",
+      "experimentation",
+      "user research"
+    ],
+    "experience_range": "5-9 years",
+    "seniority_band": "senior",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Bengaluru, Karnataka | Noida, Uttar Pradesh; Bengaluru, Karnataka | Noida, Uttar Pradesh"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Paytm"
+    ],
+    "tags": [
+      "metabase",
+      "mixpanel",
+      "amplitude",
+      "sql",
+      "cross-functional"
+    ],
+    "why_real": "specialized established title 'product manager' Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 5,
+      "sample_url": "https://jobs.lever.co/paytm/64241793-684f-4dde-9447-36a14e499d4e",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-041",
+    "title": "Product Manager, Data & AI Platforms",
+    "category": "traditional",
+    "function": "product",
+    "description": "Product Manager, Data & AI Platforms role in the product function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "snowflake",
+      "databricks",
+      "cross-functional",
+      "roadmap",
+      "retention",
+      "onboarding",
+      "automation",
+      "saas"
+    ],
+    "experience_range": "7-12 years",
+    "seniority_band": "lead",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Bangalore, INDIA"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Smartsheet"
+    ],
+    "tags": [
+      "snowflake",
+      "databricks",
+      "cross-functional",
+      "roadmap",
+      "retention"
+    ],
+    "why_real": "specialized established title 'product manager' Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 5,
+      "sample_url": "https://job-boards.greenhouse.io/smartsheet/jobs/7794964",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-042",
+    "title": "Product Marketing Manager, India Marketing",
+    "category": "traditional",
+    "function": "product",
+    "description": "Product Marketing Manager, India Marketing role in the product function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "cross-functional",
+      "kpi",
+      "go-to-market",
+      "funnel",
+      "attribution",
+      "agile",
+      "reporting"
+    ],
+    "experience_range": "2-5 years",
+    "seniority_band": "mid",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Mumbai, Maharashtra, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Google"
+    ],
+    "tags": [
+      "cross-functional",
+      "kpi",
+      "go-to-market",
+      "funnel",
+      "attribution"
+    ],
+    "why_real": "specialized established title 'marketing manager' Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 5,
+      "sample_url": "https://in.linkedin.com/jobs/view/product-marketing-manager-india-marketing-at-google-4406559381?trk=public_jobs_topcard-title",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-043",
+    "title": "Sales Development Representative",
+    "category": "traditional",
+    "function": "sales",
+    "description": "Sales Development Representative role in the sales function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "outreach",
+      "prospecting",
+      "pipeline",
+      "go-to-market",
+      "saas",
+      "enterprise",
+      "salesforce",
+      "onboarding",
+      "seo",
+      "forecasting"
+    ],
+    "experience_range": "2-7 years (typical range)",
+    "seniority_band": "unknown",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "IN-Mumbai-MSO",
+        "Pune, Maharashtra, India",
+        "Japan, India"
+      ],
+      "india_demand": "medium"
+    },
+    "real_employers": [
+      "Weekday",
+      "Glean",
+      "Snowflake",
+      "Careers at Tide"
+    ],
+    "tags": [
+      "outreach",
+      "prospecting",
+      "pipeline",
+      "go-to-market",
+      "saas"
+    ],
+    "why_real": "specialized established title 'sales development representative' Verified across 4 live postings as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 4,
+      "emerging_score": 5,
+      "sample_url": "https://apply.workable.com/weekday-1/j/400A67C76E/",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-044",
+    "title": "Supplier Business Development Manager",
+    "category": "traditional",
+    "function": "sales",
+    "description": "Supplier Business Development Manager role in the sales function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "cross-functional",
+      "acquisition",
+      "onboarding",
+      "b2b",
+      "reporting"
+    ],
+    "experience_range": "2-5 years",
+    "seniority_band": "mid",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Jaipur"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Nivoda"
+    ],
+    "tags": [
+      "cross-functional",
+      "acquisition",
+      "onboarding",
+      "b2b",
+      "reporting"
+    ],
+    "why_real": "specialized established title 'business development manager' Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 5,
+      "sample_url": "https://jobs.ashbyhq.com/nivoda/f4d5eef1-355a-4fa0-87d9-e3ae0a4e845e",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-045",
+    "title": "Temenos Transact FX Business Analyst",
+    "category": "traditional",
+    "function": "data-analyst",
+    "description": "Temenos Transact FX Business Analyst role in the data-analyst function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "stakeholder management",
+      "cross-functional",
+      "reporting"
+    ],
+    "experience_range": "2-7 years (typical range)",
+    "seniority_band": "unknown",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Pune, Maharashtra, India"
+      ],
+      "india_demand": "medium"
+    },
+    "real_employers": [
+      "Capgemini"
+    ],
+    "tags": [
+      "stakeholder management",
+      "cross-functional",
+      "reporting"
+    ],
+    "why_real": "specialized established title 'business analyst' Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 5,
+      "sample_url": "https://apply.workable.com/capgemini-insurance/j/BC4205A6B7/",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-046",
+    "title": "UX Designer",
+    "category": "traditional",
+    "function": "design",
+    "description": "UX Designer role in the design function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "figma",
+      "enterprise",
+      "prototyping",
+      "automation",
+      "saas",
+      "experimentation"
+    ],
+    "experience_range": "5-9 years",
+    "seniority_band": "senior",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Bangalore"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Reltio",
+      "Glance"
+    ],
+    "tags": [
+      "figma",
+      "enterprise",
+      "prototyping",
+      "automation",
+      "saas"
+    ],
+    "why_real": "specialized established title 'ux designer' Verified across 2 live postings as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 2,
+      "emerging_score": 5,
+      "sample_url": "https://job-boards.greenhouse.io/reltio/jobs/5837852004",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-047",
+    "title": "Workday HCM Business Analyst",
+    "category": "traditional",
+    "function": "data-analyst",
+    "description": "Workday HCM Business Analyst role in the data-analyst function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "reporting",
+      "dashboards"
+    ],
+    "experience_range": "2-7 years (typical range)",
+    "seniority_band": "unknown",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Gurugram, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Anaplan"
+    ],
+    "tags": [
+      "reporting",
+      "dashboards"
+    ],
+    "why_real": "specialized established title 'business analyst' Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 5,
+      "sample_url": "https://job-boards.greenhouse.io/anaplan/jobs/8509598002",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-048",
+    "title": "Business Analyst I",
+    "category": "traditional",
+    "function": "data-analyst",
+    "description": "Business Analyst I role in the data-analyst function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "jira",
+      "confluence",
+      "excel",
+      "sql",
+      "cross-functional",
+      "automation",
+      "workflow",
+      "saas",
+      "enterprise"
+    ],
+    "experience_range": "2-7 years (typical range)",
+    "seniority_band": "unknown",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Gurugram, Haryana, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Zinnia India - Employee Referral Board"
+    ],
+    "tags": [
+      "jira",
+      "confluence",
+      "excel",
+      "sql",
+      "cross-functional"
+    ],
+    "why_real": "specialized established title 'business analyst' Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 4,
+      "sample_url": "https://job-boards.greenhouse.io/zind-erprogram/jobs/4672966006",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-049",
+    "title": "Business Analyst Merchant",
+    "category": "traditional",
+    "function": "data-analyst",
+    "description": "Business Analyst Merchant role in the data-analyst function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "tableau",
+      "excel",
+      "sql",
+      "python",
+      "onboarding",
+      "nps",
+      "dashboards",
+      "visualization"
+    ],
+    "experience_range": "2-7 years (typical range)",
+    "seniority_band": "unknown",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Bengaluru"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "PhonePe"
+    ],
+    "tags": [
+      "tableau",
+      "excel",
+      "sql",
+      "python",
+      "onboarding"
+    ],
+    "why_real": "specialized established title 'business analyst' Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 4,
+      "sample_url": "https://job-boards.greenhouse.io/phonepe/jobs/7701646003",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-050",
+    "title": "Channel Account Executive",
+    "category": "traditional",
+    "function": "sales",
+    "description": "Channel Account Executive role in the sales function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "salesforce",
+      "power bi",
+      "notion",
+      "kpi",
+      "go-to-market",
+      "lead generation",
+      "pipeline",
+      "forecasting",
+      "renewal",
+      "cross-sell"
+    ],
+    "experience_range": "2-7 years (typical range)",
+    "seniority_band": "unknown",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Bangalore, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Sophos"
+    ],
+    "tags": [
+      "salesforce",
+      "power bi",
+      "notion",
+      "kpi",
+      "go-to-market"
+    ],
+    "why_real": "specialized established title 'account executive' Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": true,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 4,
+      "sample_url": "https://jobs.lever.co/sophos/97c36994-1057-47e6-9a59-47beadca1697",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-051",
+    "title": "Content & Social Media Manager",
+    "category": "traditional",
+    "function": "marketing",
+    "description": "Content & Social Media Manager role in the marketing function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "google analytics",
+      "seo",
+      "copywriting",
+      "conversion",
+      "acquisition",
+      "reporting",
+      "storytelling"
+    ],
+    "experience_range": "2-5 years",
+    "seniority_band": "mid",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Bengaluru, Karnataka, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Laundryheap"
+    ],
+    "tags": [
+      "google analytics",
+      "seo",
+      "copywriting",
+      "conversion",
+      "acquisition"
+    ],
+    "why_real": "specialized established title 'social media manager' Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 4,
+      "sample_url": "https://apply.workable.com/laundryheap-2/j/3B95C38A29/",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-052",
+    "title": "Creator Marketing Manager",
+    "category": "traditional",
+    "function": "marketing",
+    "description": "Creator Marketing Manager role in the marketing function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "stakeholder management",
+      "cross-functional",
+      "go-to-market",
+      "experimentation"
+    ],
+    "experience_range": "2-5 years",
+    "seniority_band": "mid",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Gurgaon, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "OLIVER Agency - APAC"
+    ],
+    "tags": [
+      "stakeholder management",
+      "cross-functional",
+      "go-to-market",
+      "experimentation"
+    ],
+    "why_real": "specialized established title 'marketing manager' Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 4,
+      "sample_url": "https://job-boards.greenhouse.io/oliverseapac/jobs/7823572",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-053",
+    "title": "Data Analyst",
+    "category": "traditional",
+    "function": "data-analyst",
+    "description": "Data Analyst role in the data-analyst function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "excel",
+      "sql",
+      "data analysis",
+      "looker",
+      "tableau",
+      "google sheets",
+      "python",
+      "cross-functional",
+      "a/b testing",
+      "experimentation"
+    ],
+    "experience_range": "2-7 years (typical range)",
+    "seniority_band": "unknown",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Bengaluru, Karnataka, India",
+        "Mumbai, Maharashtra, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Laundryheap",
+      "LRN Corporation"
+    ],
+    "tags": [
+      "excel",
+      "sql",
+      "data analysis",
+      "looker",
+      "tableau"
+    ],
+    "why_real": "specialized established title 'data analyst' Verified across 2 live postings as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 2,
+      "emerging_score": 4,
+      "sample_url": "https://apply.workable.com/laundryheap-2/j/7E271F98A5/",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-054",
+    "title": "FBS Business Analyst III",
+    "category": "traditional",
+    "function": "data-analyst",
+    "description": "FBS Business Analyst III role in the data-analyst function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "sql",
+      "agile"
+    ],
+    "experience_range": "2-7 years (typical range)",
+    "seniority_band": "unknown",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Pune, Maharashtra, India"
+      ],
+      "india_demand": "medium"
+    },
+    "real_employers": [
+      "Capgemini"
+    ],
+    "tags": [
+      "sql",
+      "agile"
+    ],
+    "why_real": "specialized established title 'business analyst' Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": true,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 4,
+      "sample_url": "https://apply.workable.com/capgemini-insurance/j/79956F7795/",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-055",
+    "title": "Implementation Operations Business Analyst",
+    "category": "traditional",
+    "function": "customer",
+    "description": "Implementation Operations Business Analyst role in the customer function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "salesforce",
+      "mailchimp",
+      "tableau",
+      "excel",
+      "sql",
+      "automation",
+      "data analysis",
+      "reporting"
+    ],
+    "experience_range": "2-7 years (typical range)",
+    "seniority_band": "unknown",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Hyderabad, Telangana, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "GHX"
+    ],
+    "tags": [
+      "salesforce",
+      "mailchimp",
+      "tableau",
+      "excel",
+      "sql"
+    ],
+    "why_real": "specialized established title 'business analyst' Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 4,
+      "sample_url": "https://job-boards.greenhouse.io/globalhealthcareexchangeinc/jobs/4688105005",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-056",
+    "title": "Influencer Marketing Manager",
+    "category": "traditional",
+    "function": "marketing",
+    "description": "Influencer Marketing Manager role in the marketing function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "roadmap",
+      "conversion",
+      "expansion"
+    ],
+    "experience_range": "2-5 years",
+    "seniority_band": "mid",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "JAPAC | India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Plaud"
+    ],
+    "tags": [
+      "roadmap",
+      "conversion",
+      "expansion"
+    ],
+    "why_real": "specialized established title 'marketing manager' Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 4,
+      "sample_url": "https://jobs.ashbyhq.com/Plaud/13c4fb51-c6db-4ebe-b320-0176ebe25e97",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-057",
+    "title": "Marketing Manager Content",
+    "category": "traditional",
+    "function": "marketing",
+    "description": "Marketing Manager Content role in the marketing function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [],
+    "experience_range": "2-5 years",
+    "seniority_band": "mid",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Mumbai"
+      ],
+      "india_demand": "medium"
+    },
+    "real_employers": [
+      "Weekday"
+    ],
+    "tags": [],
+    "why_real": "specialized established title 'marketing manager' Verified across 1 live posting as of May 2026.",
+    "salary_range": "INR900,000 - INR1,800,000 per per-year-salary",
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 4,
+      "sample_url": "https://jobs.lever.co/weekdayworks/5e4dcb57-c26e-4009-9737-d1c1332120c8",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-058",
+    "title": "Partner Marketing Manager",
+    "category": "traditional",
+    "function": "marketing",
+    "description": "Partner Marketing Manager role in the marketing function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "salesforce",
+      "marketo",
+      "salesloft",
+      "go-to-market",
+      "branding",
+      "demand generation",
+      "funnel",
+      "conversion",
+      "pipeline",
+      "b2b"
+    ],
+    "experience_range": "10+ years",
+    "seniority_band": "principal",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "India - Bangalore"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Conga"
+    ],
+    "tags": [
+      "salesforce",
+      "marketo",
+      "salesloft",
+      "go-to-market",
+      "branding"
+    ],
+    "why_real": "specialized established title 'marketing manager' Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 4,
+      "sample_url": "https://job-boards.greenhouse.io/conga/jobs/5103665007",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-059",
+    "title": "Product Marketing Manager",
+    "category": "traditional",
+    "function": "product",
+    "description": "Product Marketing Manager role in the product function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "hubspot",
+      "notion",
+      "go-to-market",
+      "onboarding",
+      "renewal",
+      "upsell",
+      "expansion",
+      "automation",
+      "saas",
+      "b2b"
+    ],
+    "experience_range": "2-5 years",
+    "seniority_band": "mid",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Bengaluru, Karnataka, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Wati"
+    ],
+    "tags": [
+      "hubspot",
+      "notion",
+      "go-to-market",
+      "onboarding",
+      "renewal"
+    ],
+    "why_real": "specialized established title 'marketing manager' Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": true,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 4,
+      "sample_url": "https://apply.workable.com/wati-dot-i-o/j/82C690C912/",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-060",
+    "title": "Product Strategy & Marketing Manager",
+    "category": "traditional",
+    "function": "marketing",
+    "description": "Product Strategy & Marketing Manager role in the marketing function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "go-to-market",
+      "demand generation",
+      "pipeline",
+      "onboarding",
+      "saas",
+      "b2b",
+      "storytelling"
+    ],
+    "experience_range": "2-5 years",
+    "seniority_band": "mid",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Bangalore"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Wayground (formerly Quizizz)"
+    ],
+    "tags": [
+      "go-to-market",
+      "demand generation",
+      "pipeline",
+      "onboarding",
+      "saas"
+    ],
+    "why_real": "specialized established title 'marketing manager' Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 4,
+      "sample_url": "https://jobs.lever.co/Wayground/ba826e09-8cd7-4739-aa54-bcc5301a8a70",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-061",
+    "title": "Technical Customer Success Manager",
+    "category": "traditional",
+    "function": "customer",
+    "description": "Technical Customer Success Manager role in the customer function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "cross-functional",
+      "roadmap",
+      "retention",
+      "onboarding",
+      "renewal",
+      "expansion",
+      "storytelling"
+    ],
+    "experience_range": "2-5 years",
+    "seniority_band": "mid",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "India-Karnataka"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Kong"
+    ],
+    "tags": [
+      "cross-functional",
+      "roadmap",
+      "retention",
+      "onboarding",
+      "renewal"
+    ],
+    "why_real": "specialized established title 'customer success manager' Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 4,
+      "sample_url": "https://jobs.ashbyhq.com/kong/6fc35531-2285-4b70-82a4-0266a7c3ad28",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-062",
+    "title": "Agentforce Marketing",
+    "category": "traditional",
+    "function": "marketing",
+    "description": "Agentforce Marketing role in the marketing function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "salesforce",
+      "sql",
+      "acquisition",
+      "automation",
+      "workflow",
+      "agile",
+      "b2c"
+    ],
+    "experience_range": "7-12 years",
+    "seniority_band": "lead",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Bengaluru"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Valtech"
+    ],
+    "tags": [
+      "salesforce",
+      "sql",
+      "acquisition",
+      "automation",
+      "workflow"
+    ],
+    "why_real": "no canonical title match Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 3,
+      "sample_url": "https://job-boards.eu.greenhouse.io/valtech/jobs/4829193101",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-063",
+    "title": "Analyst, Business Intelligence",
+    "category": "traditional",
+    "function": "data-analyst",
+    "description": "Analyst, Business Intelligence role in the data-analyst function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "salesforce",
+      "tableau",
+      "power bi",
+      "excel",
+      "google sheets",
+      "sql",
+      "python",
+      "go-to-market",
+      "pipeline",
+      "forecasting"
+    ],
+    "experience_range": "5-9 years",
+    "seniority_band": "senior",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Pune"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Showpad"
+    ],
+    "tags": [
+      "salesforce",
+      "tableau",
+      "power bi",
+      "excel",
+      "google sheets"
+    ],
+    "why_real": "no canonical title match Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 3,
+      "sample_url": "https://job-boards.greenhouse.io/showpad/jobs/7830224",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-064",
+    "title": "Analyst, Digital Marketing",
+    "category": "traditional",
+    "function": "marketing",
+    "description": "Analyst, Digital Marketing role in the marketing function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "looker",
+      "tableau",
+      "power bi",
+      "google analytics",
+      "excel",
+      "sql",
+      "python",
+      "cross-functional",
+      "a/b testing",
+      "experimentation"
+    ],
+    "experience_range": "2-7 years (typical range)",
+    "seniority_band": "unknown",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "JustAnswer"
+    ],
+    "tags": [
+      "looker",
+      "tableau",
+      "power bi",
+      "google analytics",
+      "excel"
+    ],
+    "why_real": "no canonical title match Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 3,
+      "sample_url": "https://job-boards.greenhouse.io/justanswer/jobs/8496333002",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-065",
+    "title": "Analyst, Technology Business Management",
+    "category": "traditional",
+    "function": "data-analyst",
+    "description": "Analyst, Technology Business Management role in the data-analyst function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "sql",
+      "cross-functional",
+      "roadmap",
+      "pipeline",
+      "process optimization",
+      "enterprise",
+      "reporting"
+    ],
+    "experience_range": "7-12 years",
+    "seniority_band": "lead",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Bengaluru, Karnataka, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Lowe's India"
+    ],
+    "tags": [
+      "sql",
+      "cross-functional",
+      "roadmap",
+      "pipeline",
+      "process optimization"
+    ],
+    "why_real": "no canonical title match Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 3,
+      "sample_url": "https://in.linkedin.com/jobs/view/lead-analyst-technology-business-management-at-lowe-s-india-4406213036?trk=public_jobs_topcard-title",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-066",
+    "title": "Assistant Department Manager",
+    "category": "traditional",
+    "function": "other",
+    "description": "Assistant Department Manager role in the other function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "excel",
+      "reporting"
+    ],
+    "experience_range": "2-5 years",
+    "seniority_band": "mid",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Mumbai Metropolitan Region"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Burns & McDonnell India"
+    ],
+    "tags": [
+      "excel",
+      "reporting"
+    ],
+    "why_real": "no canonical title match Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 3,
+      "sample_url": "https://in.linkedin.com/jobs/view/assistant-department-manager-finance-accounts-at-burns-mcdonnell-india-4374999402?trk=public_jobs_topcard-title",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-067",
+    "title": "Assistant Manager",
+    "category": "traditional",
+    "function": "marketing",
+    "description": "Assistant Manager role in the marketing function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "cross-functional",
+      "seo",
+      "sem",
+      "ppc",
+      "email marketing",
+      "conversion",
+      "retention",
+      "acquisition",
+      "reporting",
+      "storytelling"
+    ],
+    "experience_range": "2-5 years",
+    "seniority_band": "mid",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Hyderabad",
+        "Mumbai, Maharashtra, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Rentokil Initial",
+      "JioStar"
+    ],
+    "tags": [
+      "cross-functional",
+      "seo",
+      "sem",
+      "ppc",
+      "email marketing"
+    ],
+    "why_real": "no canonical title match Verified across 2 live postings as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 2,
+      "emerging_score": 3,
+      "sample_url": "https://apply.workable.com/rentokil-initial/j/62E7EC22A3/",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-068",
+    "title": "Associate IT Auditor",
+    "category": "traditional",
+    "function": "other",
+    "description": "Associate IT Auditor role in the other function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "excel",
+      "pipeline",
+      "enterprise",
+      "data analysis"
+    ],
+    "experience_range": "0-2 years",
+    "seniority_band": "junior",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Hyderabad, Telangana, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Amgen"
+    ],
+    "tags": [
+      "excel",
+      "pipeline",
+      "enterprise",
+      "data analysis"
+    ],
+    "why_real": "no canonical title match Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 3,
+      "sample_url": "https://in.linkedin.com/jobs/view/senior-associate-it-auditor-at-amgen-4403832632?trk=public_jobs_topcard-title",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-069",
+    "title": "Brand & Digital Strategy Manager",
+    "category": "traditional",
+    "function": "marketing",
+    "description": "Brand & Digital Strategy Manager role in the marketing function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "google analytics",
+      "figma",
+      "stakeholder management",
+      "a/b testing",
+      "seo",
+      "lead generation",
+      "conversion",
+      "acquisition",
+      "b2c",
+      "dashboards"
+    ],
+    "experience_range": "2-5 years",
+    "seniority_band": "mid",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Bengaluru, Karnataka, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Ola Electric"
+    ],
+    "tags": [
+      "google analytics",
+      "figma",
+      "stakeholder management",
+      "a/b testing",
+      "seo"
+    ],
+    "why_real": "no canonical title match Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 3,
+      "sample_url": "https://in.linkedin.com/jobs/view/brand-digital-strategy-manager-at-ola-electric-4398368118?trk=public_jobs_topcard-title",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-070",
+    "title": "Business Development",
+    "category": "traditional",
+    "function": "sales",
+    "description": "Business Development role in the sales function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "acquisition",
+      "negotiation",
+      "onboarding",
+      "scaling",
+      "product-led",
+      "storytelling"
+    ],
+    "experience_range": "7-12 years",
+    "seniority_band": "lead",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Bengaluru"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Fam"
+    ],
+    "tags": [
+      "acquisition",
+      "negotiation",
+      "onboarding",
+      "scaling",
+      "product-led"
+    ],
+    "why_real": "no canonical title match Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 3,
+      "sample_url": "https://jobs.lever.co/fampay/90a5d3d5-8fb6-4961-ab7a-43a8f8b48ef7",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-071",
+    "title": "Business Intelligence Analyst",
+    "category": "traditional",
+    "function": "data-analyst",
+    "description": "Business Intelligence Analyst role in the data-analyst function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "looker",
+      "tableau",
+      "power bi",
+      "sql",
+      "cross-functional",
+      "reporting",
+      "dashboards",
+      "visualization",
+      "storytelling"
+    ],
+    "experience_range": "2-7 years (typical range)",
+    "seniority_band": "unknown",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Bengaluru, Karnataka, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Konovo"
+    ],
+    "tags": [
+      "looker",
+      "tableau",
+      "power bi",
+      "sql",
+      "cross-functional"
+    ],
+    "why_real": "no canonical title match Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 3,
+      "sample_url": "https://job-boards.greenhouse.io/konovo/jobs/5177988008",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-072",
+    "title": "Business Operations",
+    "category": "traditional",
+    "function": "operations",
+    "description": "Business Operations role in the operations function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "segment",
+      "excel"
+    ],
+    "experience_range": "7-12 years",
+    "seniority_band": "lead",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Bangalore, Karnataka"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Paytm"
+    ],
+    "tags": [
+      "segment",
+      "excel"
+    ],
+    "why_real": "no canonical title match Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 3,
+      "sample_url": "https://jobs.lever.co/paytm/14b92563-6fc9-4c76-83d4-8890fe53150d",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-073",
+    "title": "Career Advancement Services and Industry Engagement",
+    "category": "traditional",
+    "function": "other",
+    "description": "Career Advancement Services and Industry Engagement role in the other function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "stakeholder management",
+      "reporting"
+    ],
+    "experience_range": "7-12 years",
+    "seniority_band": "lead",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Bengaluru, Karnataka, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Emeritus"
+    ],
+    "tags": [
+      "stakeholder management",
+      "reporting"
+    ],
+    "why_real": "no canonical title match Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 3,
+      "sample_url": "https://in.linkedin.com/jobs/view/head-of-career-advancement-services-and-industry-engagement-at-emeritus-4405232668?trk=public_jobs_topcard-title",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-074",
+    "title": "Coding Quality Auditor",
+    "category": "traditional",
+    "function": "other",
+    "description": "Coding Quality Auditor role in the other function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "enterprise",
+      "data analysis"
+    ],
+    "experience_range": "2-7 years (typical range)",
+    "seniority_band": "unknown",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Hyderabad, Telangana, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Optum India"
+    ],
+    "tags": [
+      "enterprise",
+      "data analysis"
+    ],
+    "why_real": "no canonical title match Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 3,
+      "sample_url": "https://in.linkedin.com/jobs/view/coding-quality-auditor-e-m-ed-at-optum-india-4408562624?trk=public_jobs_topcard-title",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-075",
+    "title": "Content Marketing Manager",
+    "category": "traditional",
+    "function": "marketing",
+    "description": "Content Marketing Manager role in the marketing function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "cross-functional",
+      "copywriting",
+      "funnel",
+      "conversion",
+      "storytelling"
+    ],
+    "experience_range": "2-5 years",
+    "seniority_band": "mid",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Gurugram, Haryana, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "2070 Health"
+    ],
+    "tags": [
+      "cross-functional",
+      "copywriting",
+      "funnel",
+      "conversion",
+      "storytelling"
+    ],
+    "why_real": "no canonical title match Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 3,
+      "sample_url": "https://apply.workable.com/2070health/j/6DBACFC178/",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-076",
+    "title": "Corporate Planning & Management",
+    "category": "traditional",
+    "function": "data-analyst",
+    "description": "Corporate Planning & Management role in the data-analyst function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "excel",
+      "automation",
+      "reporting"
+    ],
+    "experience_range": "0-2 years",
+    "seniority_band": "junior",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Bengaluru, Karnataka, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Goldman Sachs"
+    ],
+    "tags": [
+      "excel",
+      "automation",
+      "reporting"
+    ],
+    "why_real": "no canonical title match Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 3,
+      "sample_url": "https://in.linkedin.com/jobs/view/corporate-planning-management-vendor-management-tprm-analyst-bengaluru-at-goldman-sachs-4405978626?trk=public_jobs_topcard-title",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-077",
+    "title": "Customer Success Business Partner",
+    "category": "traditional",
+    "function": "customer",
+    "description": "Customer Success Business Partner role in the customer function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "retention",
+      "pipeline",
+      "onboarding",
+      "renewal",
+      "expansion",
+      "enterprise"
+    ],
+    "experience_range": "5-9 years",
+    "seniority_band": "senior",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Bangalore, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Anaplan"
+    ],
+    "tags": [
+      "retention",
+      "pipeline",
+      "onboarding",
+      "renewal",
+      "expansion"
+    ],
+    "why_real": "no canonical title match Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 3,
+      "sample_url": "https://job-boards.greenhouse.io/anaplan/jobs/8488906002",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-078",
+    "title": "Customer Success Engineer",
+    "category": "traditional",
+    "function": "customer",
+    "description": "Customer Success Engineer role in the customer function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "stakeholder management",
+      "cross-functional",
+      "roadmap",
+      "onboarding",
+      "renewal",
+      "upsell",
+      "expansion",
+      "churn",
+      "automation",
+      "enterprise"
+    ],
+    "experience_range": "5-9 years",
+    "seniority_band": "senior",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Bangalore, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Veeam Software"
+    ],
+    "tags": [
+      "stakeholder management",
+      "cross-functional",
+      "roadmap",
+      "onboarding",
+      "renewal"
+    ],
+    "why_real": "no canonical title match Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 3,
+      "sample_url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4744176101",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-079",
+    "title": "Customer Success Strategic Representative",
+    "category": "traditional",
+    "function": "customer",
+    "description": "Customer Success Strategic Representative role in the customer function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "salesforce",
+      "segment",
+      "excel",
+      "retention",
+      "pipeline",
+      "quota",
+      "closing",
+      "forecasting",
+      "renewal",
+      "expansion"
+    ],
+    "experience_range": "2-7 years (typical range)",
+    "seniority_band": "unknown",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Mumbai, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Veeam Software"
+    ],
+    "tags": [
+      "salesforce",
+      "segment",
+      "excel",
+      "retention",
+      "pipeline"
+    ],
+    "why_real": "no canonical title match Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 3,
+      "sample_url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4838267101",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-080",
+    "title": "Data Delivery & Dashboard Executive",
+    "category": "traditional",
+    "function": "other",
+    "description": "Data Delivery & Dashboard Executive role in the other function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "tableau",
+      "power bi",
+      "sql",
+      "python",
+      "project management",
+      "pipeline",
+      "reporting",
+      "dashboards",
+      "storytelling"
+    ],
+    "experience_range": "5-9 years",
+    "seniority_band": "senior",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Gurugram, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Research Partnership"
+    ],
+    "tags": [
+      "tableau",
+      "power bi",
+      "sql",
+      "python",
+      "project management"
+    ],
+    "why_real": "no canonical title match Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 3,
+      "sample_url": "https://job-boards.greenhouse.io/researchpartnership/jobs/7806301",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-081",
+    "title": "Degrees Success Manager",
+    "category": "traditional",
+    "function": "other",
+    "description": "Degrees Success Manager role in the other function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "cross-functional",
+      "funnel",
+      "conversion",
+      "onboarding",
+      "automation"
+    ],
+    "experience_range": "2-5 years",
+    "seniority_band": "mid",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Coursera"
+    ],
+    "tags": [
+      "cross-functional",
+      "funnel",
+      "conversion",
+      "onboarding",
+      "automation"
+    ],
+    "why_real": "no canonical title match Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 3,
+      "sample_url": "https://job-boards.greenhouse.io/coursera/jobs/5983324004",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-082",
+    "title": "Deputy Manager",
+    "category": "traditional",
+    "function": "other",
+    "description": "Deputy Manager role in the other function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "stakeholder management",
+      "cross-functional",
+      "project management",
+      "expansion",
+      "reporting",
+      "dashboards"
+    ],
+    "experience_range": "2-5 years",
+    "seniority_band": "mid",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Matar, Gujarat, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "KP Group"
+    ],
+    "tags": [
+      "stakeholder management",
+      "cross-functional",
+      "project management",
+      "expansion",
+      "reporting"
+    ],
+    "why_real": "no canonical title match Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 3,
+      "sample_url": "https://in.linkedin.com/jobs/view/deputy-manager-at-kp-group-4401958016?trk=public_jobs_topcard-title",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-083",
+    "title": "Director, Strategy",
+    "category": "traditional",
+    "function": "other",
+    "description": "Director, Strategy role in the other function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "cross-functional",
+      "pipeline",
+      "expansion",
+      "scaling"
+    ],
+    "experience_range": "7-12 years",
+    "seniority_band": "lead",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "New Delhi, Delhi, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Evidence Action"
+    ],
+    "tags": [
+      "cross-functional",
+      "pipeline",
+      "expansion",
+      "scaling"
+    ],
+    "why_real": "no canonical title match Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 3,
+      "sample_url": "https://in.linkedin.com/jobs/view/director-strategy-eaii-advisors-at-evidence-action-4403215504?trk=public_jobs_topcard-title",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-084",
+    "title": "Executive Security",
+    "category": "traditional",
+    "function": "other",
+    "description": "Executive Security role in the other function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [],
+    "experience_range": "0-2 years",
+    "seniority_band": "junior",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Mumbai, Maharashtra, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Quikjet Cargo Airlines"
+    ],
+    "tags": [],
+    "why_real": "no canonical title match Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 3,
+      "sample_url": "https://in.linkedin.com/jobs/view/executive-security-at-quikjet-cargo-airlines-4406465891?trk=public_jobs_topcard-title",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-085",
+    "title": "Founder\u2019s Office",
+    "category": "traditional",
+    "function": "other",
+    "description": "Founder\u2019s Office role in the other function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "salesforce",
+      "hubspot",
+      "notion",
+      "figma",
+      "excel",
+      "google sheets",
+      "pivot tables",
+      "sql",
+      "project management",
+      "experimentation"
+    ],
+    "experience_range": "2-5 years",
+    "seniority_band": "mid",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Noida, Uttar Pradesh, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "MyOperator"
+    ],
+    "tags": [
+      "salesforce",
+      "hubspot",
+      "notion",
+      "figma",
+      "excel"
+    ],
+    "why_real": "no canonical title match Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 3,
+      "sample_url": "https://in.linkedin.com/jobs/view/founder%E2%80%99s-office-manager-at-myoperator-4404668721?trk=public_jobs_topcard-title",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-086",
+    "title": "Global Partnerships & Alliances",
+    "category": "traditional",
+    "function": "sales",
+    "description": "Global Partnerships & Alliances role in the sales function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "pipeline",
+      "enterprise",
+      "reporting"
+    ],
+    "experience_range": "7-12 years",
+    "seniority_band": "lead",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Mumbai, Maharashtra, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Antarctica Global"
+    ],
+    "tags": [
+      "pipeline",
+      "enterprise",
+      "reporting"
+    ],
+    "why_real": "no canonical title match Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": true,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 3,
+      "sample_url": "https://apply.workable.com/antarcticaglobal/j/3D15B7F4F5/",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-087",
+    "title": "Head",
+    "category": "traditional",
+    "function": "other",
+    "description": "Head role in the other function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "stakeholder management",
+      "reporting"
+    ],
+    "experience_range": "7-12 years",
+    "seniority_band": "lead",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Bengaluru, Karnataka, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "UNSW Bengaluru"
+    ],
+    "tags": [
+      "stakeholder management",
+      "reporting"
+    ],
+    "why_real": "no canonical title match Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 3,
+      "sample_url": "https://in.linkedin.com/jobs/view/head-industry-and-student-services-at-unsw-bengaluru-4404270894?trk=public_jobs_topcard-title",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-088",
+    "title": "Hyderabad",
+    "category": "traditional",
+    "function": "marketing",
+    "description": "Hyderabad role in the marketing function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "tableau",
+      "power bi",
+      "excel",
+      "project management",
+      "workflow",
+      "reporting",
+      "dashboards",
+      "visualization"
+    ],
+    "experience_range": "2-5 years",
+    "seniority_band": "mid",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Bengaluru, Karnataka, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Deloitte"
+    ],
+    "tags": [
+      "tableau",
+      "power bi",
+      "excel",
+      "project management",
+      "workflow"
+    ],
+    "why_real": "no canonical title match Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 3,
+      "sample_url": "https://in.linkedin.com/jobs/view/hyderabad-bangalore-market-research-%E2%80%93-brand-research-insights-assistant-manager-at-deloitte-4370652047?trk=public_jobs_topcard-title",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-089",
+    "title": "Implementation Success Manager",
+    "category": "traditional",
+    "function": "customer",
+    "description": "Implementation Success Manager role in the customer function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "cross-functional",
+      "project management",
+      "roadmap",
+      "saas",
+      "enterprise"
+    ],
+    "experience_range": "2-5 years",
+    "seniority_band": "mid",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Pune"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "AppZen, Inc. "
+    ],
+    "tags": [
+      "cross-functional",
+      "project management",
+      "roadmap",
+      "saas",
+      "enterprise"
+    ],
+    "why_real": "no canonical title match Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 3,
+      "sample_url": "https://jobs.lever.co/appzen/dca52733-33bd-435e-92f0-f364d526f0ab",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-090",
+    "title": "Marketing",
+    "category": "traditional",
+    "function": "marketing",
+    "description": "Marketing role in the marketing function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "marketing automation",
+      "automation"
+    ],
+    "experience_range": "2-7 years (typical range)",
+    "seniority_band": "unknown",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Chorasi, Gujarat, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Larsen & Toubro"
+    ],
+    "tags": [
+      "marketing automation",
+      "automation"
+    ],
+    "why_real": "no canonical title match Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 3,
+      "sample_url": "https://in.linkedin.com/jobs/view/marketing-ltsshf-at-larsen-toubro-4381965989?trk=public_jobs_topcard-title",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-091",
+    "title": "Onsite Consulting Leader",
+    "category": "traditional",
+    "function": "other",
+    "description": "Onsite Consulting Leader role in the other function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "tableau",
+      "jira",
+      "sql",
+      "python",
+      "stakeholder management",
+      "roadmap",
+      "go-to-market",
+      "b2b",
+      "enterprise",
+      "data analysis"
+    ],
+    "experience_range": "7-12 years",
+    "seniority_band": "lead",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Bengaluru, Karnataka, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Sigmoid, Bengaluru"
+    ],
+    "tags": [
+      "tableau",
+      "jira",
+      "sql",
+      "python",
+      "stakeholder management"
+    ],
+    "why_real": "no canonical title match Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 3,
+      "sample_url": "https://job-boards.greenhouse.io/sigmoid/jobs/8530833002",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-092",
+    "title": "Partnerships & Alliances",
+    "category": "traditional",
+    "function": "sales",
+    "description": "Partnerships & Alliances role in the sales function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "stakeholder management",
+      "cross-functional",
+      "conversion",
+      "negotiation",
+      "onboarding",
+      "reporting"
+    ],
+    "experience_range": "2-5 years",
+    "seniority_band": "mid",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Gurugram, Haryana"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Paytm"
+    ],
+    "tags": [
+      "stakeholder management",
+      "cross-functional",
+      "conversion",
+      "negotiation",
+      "onboarding"
+    ],
+    "why_real": "no canonical title match Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 3,
+      "sample_url": "https://jobs.lever.co/paytm/8a389cb2-a592-4227-b699-460cdf697ca1",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-093",
+    "title": "Product Image Designer",
+    "category": "traditional",
+    "function": "other",
+    "description": "Product Image Designer role in the other function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "illustrator",
+      "photoshop"
+    ],
+    "experience_range": "2-7 years (typical range)",
+    "seniority_band": "unknown",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Fresh Prints"
+    ],
+    "tags": [
+      "illustrator",
+      "photoshop"
+    ],
+    "why_real": "no canonical title match Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 3,
+      "sample_url": "https://job-boards.greenhouse.io/freshprints/jobs/5979908004",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-094",
+    "title": "Risk Management & Compliance",
+    "category": "traditional",
+    "function": "other",
+    "description": "Risk Management & Compliance role in the other function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "excel",
+      "project management",
+      "dashboards"
+    ],
+    "experience_range": "2-7 years (typical range)",
+    "seniority_band": "unknown",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Mumbai, Maharashtra, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "JPMorganChase"
+    ],
+    "tags": [
+      "excel",
+      "project management",
+      "dashboards"
+    ],
+    "why_real": "no canonical title match Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 3,
+      "sample_url": "https://in.linkedin.com/jobs/view/risk-management-compliance-%E2%80%93-business-management-at-jpmorganchase-4406669234?trk=public_jobs_topcard-title",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-095",
+    "title": "Sales, SME & Growth, ANZ",
+    "category": "traditional",
+    "function": "other",
+    "description": "Sales, SME & Growth, ANZ role in the other function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "salesforce",
+      "stakeholder management",
+      "go-to-market",
+      "conversion",
+      "pipeline",
+      "sales cycle",
+      "closing",
+      "negotiation",
+      "onboarding",
+      "automation"
+    ],
+    "experience_range": "2-5 years",
+    "seniority_band": "mid",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "IN - Bangalore"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Airwallex"
+    ],
+    "tags": [
+      "salesforce",
+      "stakeholder management",
+      "go-to-market",
+      "conversion",
+      "pipeline"
+    ],
+    "why_real": "no canonical title match Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 3,
+      "sample_url": "https://jobs.ashbyhq.com/airwallex/bb5bca92-8d77-492f-9ab7-8de54d429993",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-096",
+    "title": "Solution Consultant",
+    "category": "traditional",
+    "function": "other",
+    "description": "Solution Consultant role in the other function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "catalyst",
+      "bigquery",
+      "sql",
+      "automation",
+      "enterprise"
+    ],
+    "experience_range": "2-7 years (typical range)",
+    "seniority_band": "unknown",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Bengaluru, Pune"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "66degrees"
+    ],
+    "tags": [
+      "catalyst",
+      "bigquery",
+      "sql",
+      "automation",
+      "enterprise"
+    ],
+    "why_real": "no canonical title match Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 3,
+      "sample_url": "https://job-boards.greenhouse.io/66degrees/jobs/5982348004",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-097",
+    "title": "Technical Marketing Engineer",
+    "category": "traditional",
+    "function": "marketing",
+    "description": "Technical Marketing Engineer role in the marketing function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "python",
+      "cross-functional",
+      "agile",
+      "enterprise",
+      "reporting"
+    ],
+    "experience_range": "2-7 years (typical range)",
+    "seniority_band": "unknown",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "India - Update Location"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Zscaler"
+    ],
+    "tags": [
+      "python",
+      "cross-functional",
+      "agile",
+      "enterprise",
+      "reporting"
+    ],
+    "why_real": "no canonical title match Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 3,
+      "sample_url": "https://job-boards.greenhouse.io/zscaler/jobs/5103229007",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-098",
+    "title": "Technical Training Content Development Manager",
+    "category": "traditional",
+    "function": "marketing",
+    "description": "Technical Training Content Development Manager role in the marketing function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "agile",
+      "enterprise",
+      "reporting"
+    ],
+    "experience_range": "2-5 years",
+    "seniority_band": "mid",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Bangalore, IND"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Zscaler"
+    ],
+    "tags": [
+      "agile",
+      "enterprise",
+      "reporting"
+    ],
+    "why_real": "no canonical title match Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 3,
+      "sample_url": "https://job-boards.greenhouse.io/zscaler/jobs/5113100007",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-099",
+    "title": "UK",
+    "category": "traditional",
+    "function": "other",
+    "description": "UK role in the other function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "stakeholder management",
+      "kpi",
+      "onboarding",
+      "workflow",
+      "reporting"
+    ],
+    "experience_range": "2-7 years (typical range)",
+    "seniority_band": "unknown",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "India, Hyderabad"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Careers at Tide"
+    ],
+    "tags": [
+      "stakeholder management",
+      "kpi",
+      "onboarding",
+      "workflow",
+      "reporting"
+    ],
+    "why_real": "no canonical title match Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 3,
+      "sample_url": "https://job-boards.greenhouse.io/tide/jobs/7714747003",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-100",
+    "title": "Commercial Account Manager",
+    "category": "traditional",
+    "function": "customer",
+    "description": "Commercial Account Manager role in the customer function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "salesforce",
+      "slack",
+      "stakeholder management",
+      "cross-functional",
+      "roadmap",
+      "go-to-market",
+      "retention",
+      "acquisition",
+      "pipeline",
+      "quota"
+    ],
+    "experience_range": "2-5 years",
+    "seniority_band": "mid",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Hyderabad"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Matillion"
+    ],
+    "tags": [
+      "salesforce",
+      "slack",
+      "stakeholder management",
+      "cross-functional",
+      "roadmap"
+    ],
+    "why_real": "standard title 'account manager' Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": true,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 2,
+      "sample_url": "https://jobs.lever.co/matillion/7f351a9f-b50f-4c2a-a41e-4fda7c387a1d",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-101",
+    "title": "Customer Success Engineer Intern",
+    "category": "traditional",
+    "function": "customer",
+    "description": "Customer Success Engineer Intern role in the customer function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "sql",
+      "python",
+      "automation",
+      "enterprise",
+      "mid-market",
+      "data analysis",
+      "reporting"
+    ],
+    "experience_range": "0 years",
+    "seniority_band": "intern",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "New Delhi"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Safe Security"
+    ],
+    "tags": [
+      "sql",
+      "python",
+      "automation",
+      "enterprise",
+      "mid-market"
+    ],
+    "why_real": "no canonical title match Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 2,
+      "sample_url": "https://jobs.lever.co/safe/020e91d4-b07b-4cc9-9d94-ea7ae9ec5252",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-102",
+    "title": "Operations Associate",
+    "category": "traditional",
+    "function": "operations",
+    "description": "Operations Associate role in the operations function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "outreach",
+      "stakeholder management",
+      "cross-functional",
+      "lead generation",
+      "acquisition",
+      "expansion",
+      "automation",
+      "scaling",
+      "reporting",
+      "dashboards"
+    ],
+    "experience_range": "0-2 years",
+    "seniority_band": "junior",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Mumbai, Maharashtra, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Magma Holding Company"
+    ],
+    "tags": [
+      "outreach",
+      "stakeholder management",
+      "cross-functional",
+      "lead generation",
+      "acquisition"
+    ],
+    "why_real": "standard title 'operations associate' Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 2,
+      "sample_url": "https://in.linkedin.com/jobs/view/operations-associate-at-magma-holding-company-4405585968?trk=public_jobs_topcard-title",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-103",
+    "title": "Business & Strategy Program Manager",
+    "category": "traditional",
+    "function": "operations",
+    "description": "Business & Strategy Program Manager role in the operations function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "cross-functional",
+      "project management",
+      "go-to-market",
+      "reporting"
+    ],
+    "experience_range": "5-9 years",
+    "seniority_band": "senior",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Hyderabad, Telangana, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Microsoft"
+    ],
+    "tags": [
+      "cross-functional",
+      "project management",
+      "go-to-market",
+      "reporting"
+    ],
+    "why_real": "standard title 'program manager' Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": true,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 1,
+      "sample_url": "https://in.linkedin.com/jobs/view/senior-business-strategy-program-manager-at-microsoft-4371414114?trk=public_jobs_topcard-title",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-104",
+    "title": "Manager, Product Design",
+    "category": "traditional",
+    "function": "design",
+    "description": "Manager, Product Design role in the design function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "cross-functional",
+      "prototyping",
+      "closing",
+      "scaling",
+      "saas",
+      "reporting",
+      "storytelling"
+    ],
+    "experience_range": "5-9 years",
+    "seniority_band": "senior",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Hybrid - Bangalore"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Motive"
+    ],
+    "tags": [
+      "cross-functional",
+      "prototyping",
+      "closing",
+      "scaling",
+      "saas"
+    ],
+    "why_real": "standard title 'senior manager' Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": true,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 1,
+      "sample_url": "https://job-boards.greenhouse.io/gomotive/jobs/8512374002",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-105",
+    "title": "Operations Manager",
+    "category": "traditional",
+    "function": "operations",
+    "description": "Operations Manager role in the operations function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "looker",
+      "excel",
+      "google sheets",
+      "sql",
+      "cross-functional",
+      "go-to-market",
+      "acquisition",
+      "onboarding",
+      "automation",
+      "reporting"
+    ],
+    "experience_range": "2-5 years",
+    "seniority_band": "mid",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "India, Delhi NCR"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Careers at Tide"
+    ],
+    "tags": [
+      "looker",
+      "excel",
+      "google sheets",
+      "sql",
+      "cross-functional"
+    ],
+    "why_real": "standard title 'operations manager' Verified across 1 live posting as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 1,
+      "emerging_score": 1,
+      "sample_url": "https://job-boards.greenhouse.io/tide/jobs/7703860003",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  },
+  {
+    "id": "role-106",
+    "title": "Program Manager",
+    "category": "traditional",
+    "function": "operations",
+    "description": "Program Manager role in the operations function. (Description placeholder \u2014 to be enriched in Phase 2 with role context derived from posting analysis.)",
+    "typical_skills": [
+      "cross-functional",
+      "scaling",
+      "go-to-market",
+      "funnel",
+      "onboarding",
+      "b2c",
+      "reporting",
+      "notion",
+      "asana",
+      "project management"
+    ],
+    "experience_range": "0-2 years",
+    "seniority_band": "junior",
+    "geography": {
+      "primary_market": "india",
+      "example_locations": [
+        "Bengaluru, Karnataka, India"
+      ],
+      "india_demand": "high"
+    },
+    "real_employers": [
+      "Revspot",
+      "Eloelo"
+    ],
+    "tags": [
+      "cross-functional",
+      "scaling",
+      "go-to-market",
+      "funnel",
+      "onboarding"
+    ],
+    "why_real": "standard title 'program manager' Verified across 2 live postings as of May 2026.",
+    "salary_range": null,
+    "remote_friendly": false,
+    "_meta": {
+      "posting_count": 2,
+      "emerging_score": 1,
+      "sample_url": "https://in.linkedin.com/jobs/view/program-manager-%E2%80%93-founder%E2%80%99s-office-revspot-at-revspot-4407998734?trk=public_jobs_topcard-title",
+      "data_source": "apify_pipeline_v1",
+      "last_refreshed": "2026-05-02"
+    }
+  }
+]

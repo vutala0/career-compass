@@ -1,0 +1,217 @@
+{
+  "raw_counts": {
+    "linkedin": 150,
+    "ats": 50,
+    "yc": 15
+  },
+  "after_india_filter": {
+    "linkedin": 150,
+    "ats": 43,
+    "yc": 15
+  },
+  "full_dedup_pool_size": 156,
+  "curated_dataset_size": 50,
+  "full_pool_score_histogram": {
+    "10": 4,
+    "9": 11,
+    "8": 25,
+    "7": 17,
+    "6": 1,
+    "5": 14,
+    "4": 27,
+    "3": 17,
+    "2": 40
+  },
+  "curated_score_histogram": {
+    "10": 4,
+    "9": 11,
+    "8": 25,
+    "7": 10
+  },
+  "full_pool_source_mix": {
+    "cheap_scraper/linkedin-job-scraper": 122,
+    "jobo.world/ats-jobs-search": 34
+  },
+  "curated_source_mix": {
+    "cheap_scraper/linkedin-job-scraper": 22,
+    "jobo.world/ats-jobs-search": 28
+  },
+  "full_pool_role_family_mix": {
+    "applied-ai": 40,
+    "ml": 45,
+    "swe": 34,
+    "growth-gtm": 1,
+    "platform-infra": 1,
+    "data-science": 31,
+    "mobile": 1,
+    "other": 2,
+    "qa": 1
+  },
+  "curated_role_family_mix": {
+    "applied-ai": 35,
+    "ml": 10,
+    "swe": 3,
+    "growth-gtm": 1,
+    "platform-infra": 1
+  },
+  "company_type_mix_full": {
+    "direct": 135,
+    "intermediary-or-services": 21
+  },
+  "per_source_emerging_density_full": {
+    "cheap_scraper/linkedin-job-scraper": {
+      "emerging": 29,
+      "total": 122,
+      "pct": 24
+    },
+    "jobo.world/ats-jobs-search": {
+      "emerging": 28,
+      "total": 34,
+      "pct": 82
+    }
+  },
+  "top_skills_full": {
+    "python": 121,
+    "llm": 81,
+    "pytorch": 53,
+    "agentic": 51,
+    "rag": 47,
+    "tensorflow": 47,
+    "sql": 45,
+    "langchain": 39,
+    "evals": 38,
+    "aws": 36,
+    "azure": 35,
+    "mlops": 33,
+    "fine-tuning": 30,
+    "scikit-learn": 29,
+    "nlp": 28,
+    "openai": 27,
+    "prompt engineering": 27,
+    "google cloud": 26,
+    "java": 22,
+    "huggingface": 20,
+    "go": 18,
+    "transformers": 16,
+    "computer vision": 16,
+    "mlflow": 16,
+    "langgraph": 15
+  },
+  "skills_with_lift_in_emerging": [
+    {
+      "skill": "kubeflow",
+      "emerging_rate": 0.07,
+      "standard_rate": 0.01,
+      "lift": 6.95
+    },
+    {
+      "skill": "embeddings",
+      "emerging_rate": 0.158,
+      "standard_rate": 0.051,
+      "lift": 3.13
+    },
+    {
+      "skill": "reinforcement learning",
+      "emerging_rate": 0.088,
+      "standard_rate": 0.03,
+      "lift": 2.89
+    },
+    {
+      "skill": "vertex ai",
+      "emerging_rate": 0.14,
+      "standard_rate": 0.051,
+      "lift": 2.78
+    },
+    {
+      "skill": "go",
+      "emerging_rate": 0.193,
+      "standard_rate": 0.071,
+      "lift": 2.73
+    },
+    {
+      "skill": "multi-agent",
+      "emerging_rate": 0.105,
+      "standard_rate": 0.04,
+      "lift": 2.61
+    },
+    {
+      "skill": "postgresql",
+      "emerging_rate": 0.053,
+      "standard_rate": 0.02,
+      "lift": 2.61
+    },
+    {
+      "skill": "typescript",
+      "emerging_rate": 0.07,
+      "standard_rate": 0.03,
+      "lift": 2.32
+    },
+    {
+      "skill": "gpt",
+      "emerging_rate": 0.07,
+      "standard_rate": 0.03,
+      "lift": 2.32
+    },
+    {
+      "skill": "agentic",
+      "emerging_rate": 0.509,
+      "standard_rate": 0.222,
+      "lift": 2.29
+    },
+    {
+      "skill": "claude",
+      "emerging_rate": 0.14,
+      "standard_rate": 0.071,
+      "lift": 1.98
+    },
+    {
+      "skill": "c#",
+      "emerging_rate": 0.053,
+      "standard_rate": 0.03,
+      "lift": 1.74
+    },
+    {
+      "skill": "react",
+      "emerging_rate": 0.053,
+      "standard_rate": 0.03,
+      "lift": 1.74
+    },
+    {
+      "skill": "rag",
+      "emerging_rate": 0.404,
+      "standard_rate": 0.242,
+      "lift": 1.66
+    },
+    {
+      "skill": "mlops",
+      "emerging_rate": 0.281,
+      "standard_rate": 0.172,
+      "lift": 1.63
+    },
+    {
+      "skill": "prompt engineering",
+      "emerging_rate": 0.228,
+      "standard_rate": 0.141,
+      "lift": 1.61
+    },
+    {
+      "skill": "evals",
+      "emerging_rate": 0.316,
+      "standard_rate": 0.202,
+      "lift": 1.56
+    }
+  ],
+  "city_distribution_emerging_only": {
+    "bengaluru": 17,
+    "hyderabad": 8,
+    "pune": 5,
+    "gurugram": 5,
+    "bangalore": 3,
+    "mumbai": 3,
+    "chennai": 3,
+    "delhi": 2,
+    "noida": 1,
+    "gurgaon": 1,
+    "kochi": 1
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "raw_counts": {
+    "linkedin": 150,
+    "ats_product_generalist": 100,
+    "ats_ops_customer": 100,
+    "ats_marketing_analyst": 100,
+    "ats_sales_design": 100
+  },
+  "tech_excluded": {
+    "linkedin": 1,
+    "ats_product_generalist": 1,
+    "ats_ops_customer": 1,
+    "ats_marketing_analyst": 1,
+    "ats_sales_design": 3
+  },
+  "kept_after_filters": {
+    "linkedin": 149,
+    "ats_product_generalist": 92,
+    "ats_ops_customer": 78,
+    "ats_marketing_analyst": 94,
+    "ats_sales_design": 82
+  },
+  "full_dedup_pool_size": 342,
+  "final_dataset_size": 200,
+  "score_histogram_full": {
+    "3": 100,
+    "4": 57,
+    "5": 46,
+    "6": 34,
+    "7": 31,
+    "1": 31,
+    "2": 25,
+    "8": 18
+  },
+  "score_histogram_final": {
+    "3": 49,
+    "5": 46,
+    "4": 40,
+    "7": 31,
+    "8": 18,
+    "2": 7,
+    "1": 5,
+    "6": 4
+  },
+  "role_family_full": {
+    "generalist": 54,
+    "product": 45,
+    "sales": 29,
+    "design": 13,
+    "operations": 15,
+    "marketing": 34,
+    "data-analyst": 35,
+    "other": 85,
+    "customer": 32
+  },
+  "role_family_final": {
+    "generalist": 24,
+    "product": 26,
+    "sales": 25,
+    "design": 13,
+    "operations": 15,
+    "marketing": 30,
+    "data-analyst": 24,
+    "other": 22,
+    "customer": 21
+  },
+  "emerging_mix_final": {
+    "emerging": 53,
+    "standard": 147
+  },
+  "emerging_mix_full": {
+    "emerging": 83,
+    "standard": 259
+  },
+  "company_type_full": {
+    "direct": 329,
+    "intermediary-or-services": 13
+  },
+  "city_distribution_full": {
+    "bengaluru": 94,
+    "mumbai": 52,
+    "bangalore": 42,
+    "gurugram": 25,
+    "hyderabad": 24,
+    "noida": 20,
+    "delhi": 18,
+    "pune": 13,
+    "gurgaon": 9,
+    "chennai": 9,
+    "ahmedabad": 4,
+    "kochi": 1,
+    "jaipur": 1,
+    "kolkata": 1
+  },
+  "top_skills_full": {
+    "cross-functional": 139,
+    "reporting": 118,
+    "enterprise": 99,
+    "automation": 79,
+    "saas": 70,
+    "excel": 68,
+    "dashboards": 66,
+    "onboarding": 62,
+    "roadmap": 58,
+    "go-to-market": 54,
+    "stakeholder management": 51,
+    "pipeline": 50,
+    "expansion": 48,
+    "sql": 47,
+    "b2b": 46,
+    "scaling": 44,
+    "project management": 43,
+    "retention": 41,
+    "acquisition": 39,
+    "conversion": 34,
+    "salesforce": 33,
+    "storytelling": 32,
+    "experimentation": 31,
+    "agile": 29,
+    "forecasting": 28,
+    "workflow": 26,
+    "data analysis": 24,
+    "tableau": 24,
+    "funnel": 23,
+    "python": 22
+  },
+  "skills_with_lift_in_emerging": [
+    {
+      "skill": "okr",
+      "emerging_rate": 0.06,
+      "standard_rate": 0.008,
+      "lift": 7.8
+    },
+    {
+      "skill": "hubspot",
+      "emerging_rate": 0.06,
+      "standard_rate": 0.015,
+      "lift": 3.9
+    },
+    {
+      "skill": "notion",
+      "emerging_rate": 0.084,
+      "standard_rate": 0.023,
+      "lift": 3.64
+    },
+    {
+      "skill": "scaling",
+      "emerging_rate": 0.241,
+      "standard_rate": 0.093,
+      "lift": 2.6
+    },
+    {
+      "skill": "dashboards",
+      "emerging_rate": 0.337,
+      "standard_rate": 0.147,
+      "lift": 2.3
+    }
+  ],
+  "estimated_cost_usd": 0.2302
+}

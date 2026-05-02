@@ -1,0 +1,31 @@
+{
+  "raw_counts": {
+    "linkedin": 150,
+    "ats": 100
+  },
+  "kept_after_filter_pre_dedup": {
+    "linkedin": 14,
+    "ats": 11
+  },
+  "final_count": 25,
+  "score_histogram": {
+    "8": 6,
+    "7": 8,
+    "6": 8,
+    "3": 3
+  },
+  "estimated_cost_usd": 0.1401,
+  "title_pattern_counts": {
+    "customer success operations / csops": 5,
+    "customer marketing": 0,
+    "customer experience": 3,
+    "customer insights": 0,
+    "customer onboarding": 0,
+    "customer lifecycle / lifecycle mgr": 2,
+    "customer retention": 0,
+    "implementation": 3,
+    "engagement manager": 3,
+    "founding cs / csm": 0,
+    "customer operations / program": 6
+  }
+}
