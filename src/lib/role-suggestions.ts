@@ -10,32 +10,84 @@ interface RoleEntry {
  * pivot to), but they're titles she's likely to type as her CURRENT role.
  */
 const COMMON_STARTING_ROLES = [
+  // Customer & Operations
   "Customer Success Associate",
+  "Customer Success Manager",
   "Customer Support Representative",
+  "Customer Support Associate",
   "Operations Generalist",
   "Operations Associate",
+  "Operations Manager",
+  "Operations Analyst",
+
+  // Business & Analysis
   "Business Analyst",
+  "Business Development Associate",
+  "Business Development Manager",
+  "Strategy Associate",
+  "Strategy Analyst",
+
+  // Marketing
   "Marketing Coordinator",
   "Marketing Associate",
-  "Project Coordinator",
-  "Project Manager",
+  "Marketing Manager",
+  "Content Writer",
+  "Content Marketing Manager",
+  "Social Media Manager",
+  "Brand Manager",
+  "SEO Specialist",
+  "Performance Marketing Specialist",
+
+  // Sales
+  "Sales Development Representative",
+  "Sales Associate",
+  "Sales Manager",
+  "Sales Executive",
   "Account Manager",
   "Account Executive",
-  "Sales Development Representative",
+  "Inside Sales Representative",
+
+  // Product & Design
   "Product Associate",
+  "Product Manager",
+  "Associate Product Manager",
+  "Junior Designer",
+  "UX Designer",
+  "Visual Designer",
+  "Graphic Designer",
+
+  // Project & Program Management
+  "Project Coordinator",
+  "Project Manager",
+  "Program Manager",
   "Implementation Specialist",
   "Onboarding Specialist",
+
+  // Data & Analytics
+  "Data Analyst",
+  "Data Associate",
+  "Research Associate",
+  "Market Research Analyst",
+
+  // HR & People
+  "HR Generalist",
+  "HR Coordinator",
+  "Human Resources Associate",
+  "People Operations Specialist",
+  "Talent Acquisition Specialist",
+  "Recruiter",
+
+  // Finance & Admin
+  "Finance Analyst",
+  "Accountant",
+  "Financial Analyst",
   "Executive Assistant",
+
+  // Strategy & Leadership tracks
   "Chief of Staff",
   "Founder's Office Associate",
-  "Strategy Associate",
-  "Junior Designer",
-  "Content Writer",
-  "Research Associate",
-  "Data Analyst",
+  "Founder's Office Analyst",
   "Generalist",
-  "Operations Manager",
-  "Marketing Manager",
 ];
 
 /**

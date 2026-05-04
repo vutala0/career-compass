@@ -1,5 +1,7 @@
 "use client";
 
+import { useState } from "react";
+
 interface OptionalSectionData {
   dayToDay: string;
   interests: string[];
@@ -56,6 +58,37 @@ export default function OptionalSection({
       updateField("interests", [...data.interests, interest]);
     }
   };
+  // Custom interest input state
+const [customInterestInput, setCustomInterestInput] = useState("");
+  const addCustomInterest = () => {
+  const trimmed = customInterestInput.trim();
+  if (trimmed.length === 0) return;
+
+  // Check if a preset matches case-insensitively — if so, just toggle the preset on
+  const matchingPreset = INTEREST_OPTIONS.find(
+    (preset) => preset.toLowerCase() === trimmed.toLowerCase()
+  );
+  if (matchingPreset) {
+    if (!data.interests.includes(matchingPreset)) {
+      updateField("interests", [...data.interests, matchingPreset]);
+    }
+    setCustomInterestInput("");
+    return;
+  }
+
+  // Check if this exact custom is already added (case-insensitive)
+  const alreadyAdded = data.interests.some(
+    (existing) => existing.toLowerCase() === trimmed.toLowerCase()
+  );
+  if (alreadyAdded) {
+    setCustomInterestInput("");
+    return;
+  }
+
+  // Add as a new custom interest, preserving the user's original casing
+  updateField("interests", [...data.interests, trimmed]);
+  setCustomInterestInput("");
+};
 
   return (
     <div className="flex min-h-screen flex-col bg-stone-50 text-slate-900">
@@ -116,8 +149,10 @@ export default function OptionalSection({
             What career directions interest you?
           </label>
           <p className="mt-1 text-xs text-slate-500">
-            Pick any that resonate. We&apos;ll weight roles in those areas.
+            Pick any that resonate, or add your own. We&apos;ll weight roles in those areas.
           </p>
+
+          {/* Preset chips */}
           <div className="mt-3 flex flex-wrap gap-2">
             {INTEREST_OPTIONS.map((interest) => {
               const selected = data.interests.includes(interest);
@@ -137,6 +172,45 @@ export default function OptionalSection({
                 </button>
               );
             })}
+
+            {/* Custom-added interests (those not in INTEREST_OPTIONS) */}
+            {data.interests
+              .filter((i) => !INTEREST_OPTIONS.includes(i))
+              .map((customInterest) => (
+                <button
+                  key={`custom-${customInterest}`}
+                  type="button"
+                  onClick={() => toggleInterest(customInterest)}
+                  className="rounded-full border border-slate-900 bg-slate-900 px-4 py-2 text-sm text-white"
+                >
+                  {customInterest} ×
+                </button>
+              ))}
+          </div>
+
+          {/* Custom interest input */}
+          <div className="mt-4 flex items-center gap-2 border-t border-slate-200 pt-4">
+            <input
+              type="text"
+              value={customInterestInput}
+              onChange={(e) => setCustomInterestInput(e.target.value)}
+              onKeyDown={(e) => {
+                if (e.key === "Enter") {
+                  e.preventDefault();
+                  addCustomInterest();
+                }
+              }}
+              placeholder="Add your own (e.g., DevRel, Trust & Safety)..."
+              className="flex-1 border-b border-slate-300 bg-transparent py-2 text-sm focus:border-slate-900 focus:outline-none"
+            />
+            <button
+              type="button"
+              onClick={addCustomInterest}
+              disabled={customInterestInput.trim().length === 0}
+              className="rounded-full border border-slate-300 px-4 py-2 text-sm text-slate-700 transition hover:border-slate-900 disabled:cursor-not-allowed disabled:opacity-40"
+            >
+              Add
+            </button>
           </div>
         </div>
 

@@ -69,9 +69,30 @@ export default function Recommendations({ profile }: RecommendationsProps) {
       const data = await res.json();
 
       if (!res.ok) {
+        // Different messages for different failure modes (Decision #40 — never expose debug to user)
+        let userMessage: string;
+        if (res.status === 503) {
+          userMessage = "We're experiencing high demand right now. Please try again in a moment.";
+        } else if (res.status === 502) {
+          userMessage = "We received an unexpected response from the AI. Please try again.";
+        } else if (res.status >= 500) {
+          userMessage = "Something went wrong on our end. Please try again.";
+        } else if (res.status === 400) {
+          userMessage = "Your profile is missing some required information. Please refine your profile.";
+        } else {
+          userMessage = data.error ?? "Something went wrong. Please try again.";
+        }
+
+        // Log full debug info to console for our debugging
+        console.error(
+          `Agent 1 call failed: HTTP ${res.status}`,
+          data.error,
+          data.debugMessage
+        );
+
         setPhase({
           kind: "error",
-          message: data.error ?? "Something went wrong. Please try again.",
+          message: userMessage,
         });
         return;
       }
