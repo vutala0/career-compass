@@ -8,6 +8,7 @@ import SkillsInput from "./SkillsInput";
 import YearsInput from "./YearsInput";
 import OptionalSection from "./OptionalSection";
 import { saveProfile, UserProfile } from "@/lib/profile-storage";
+import { clearAgent1Response } from "@/lib/agent-1-storage";
 
 type WizardPhase = "intro" | "step1" | "step2" | "step3" | "optional";
 
@@ -42,6 +43,8 @@ export default function ProfileWizard() {
           : undefined,
       educationField: optionalData.educationField.trim() || undefined,
     };
+      // Clear any stale recommendations from a previous run
+  clearAgent1Response();
 
     const saved = saveProfile(profile);
     if (saved) {
