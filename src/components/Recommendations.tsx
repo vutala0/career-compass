@@ -10,6 +10,8 @@ import {
 import LoadingStages from "./LoadingStages";
 import RecommendationGroup from "./RecommendationGroup";
 import EmptyState from "./EmptyState";
+import { formatUserSummary } from "@/lib/feedback";
+import FeedbackForm from "./FeedbackForm";
 
 interface RecommendationsProps {
   profile: UserProfile;
@@ -196,6 +198,16 @@ export default function Recommendations({ profile }: RecommendationsProps) {
   const nearFit = data.recommendations.filter((r) => r.fit_level === "near-fit");
   const moderate = data.recommendations.filter((r) => r.fit_level === "moderate-pivot");
   const aspirational = data.recommendations.filter((r) => r.fit_level === "aspirational");
+  const userSummary = formatUserSummary({
+  current_role: profile.currentRole,
+  years: profile.yearsOfExperience,
+  skills_count: profile.skills.length,
+  has_optional: Boolean(
+    profile.dayToDay ||
+    (profile.interests && profile.interests.length > 0) ||
+    profile.educationLevel
+  ),
+});
 
   let runningRank = 1;
 
@@ -231,6 +243,7 @@ export default function Recommendations({ profile }: RecommendationsProps) {
             level="near-fit"
             recommendations={nearFit}
             startingRank={start}
+            userSummary={userSummary}
           />
         );
       })()}
@@ -243,6 +256,7 @@ export default function Recommendations({ profile }: RecommendationsProps) {
             level="moderate-pivot"
             recommendations={moderate}
             startingRank={start}
+            userSummary={userSummary}
           />
         );
       })()}
@@ -255,10 +269,11 @@ export default function Recommendations({ profile }: RecommendationsProps) {
             level="aspirational"
             recommendations={aspirational}
             startingRank={start}
+            userSummary={userSummary}
           />
         );
       })()}
-
+      <FeedbackForm userSummary={userSummary} />
       <div className="rounded-xl border border-slate-200 bg-white p-6">
         <h3 className="text-xs font-semibold uppercase tracking-wider text-slate-500">
           Coming soon

@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import { Agent1Recommendation } from "@/lib/agent-1-prompt";
+import { sendThumbEvent } from "@/lib/feedback";
 import rolesData from "@/data/roles.json";
 
 type DBRole = (typeof rolesData)[number];
@@ -9,6 +10,7 @@ type DBRole = (typeof rolesData)[number];
 interface RecommendationCardProps {
   rank: number;
   rec: Agent1Recommendation;
+  userSummary: string;
 }
 
 const ROLE_LOOKUP = new Map<string, DBRole>(
@@ -36,8 +38,12 @@ const FIT_LEVEL_LABELS: Record<Agent1Recommendation["fit_level"], string> = {
   aspirational: "Aspirational",
 };
 
-export default function RecommendationCard({ rank, rec }: RecommendationCardProps) {
+type ThumbState = "idle" | "thumbed-up" | "thumbed-down" | "comment-pending";
+
+export default function RecommendationCard({ rank, rec, userSummary }: RecommendationCardProps) {
   const [expanded, setExpanded] = useState(false);
+  const [thumbState, setThumbState] = useState<ThumbState>("idle");
+  const [commentText, setCommentText] = useState("");
   const dbRole = ROLE_LOOKUP.get(rec.role_id);
   const styles = FIT_LEVEL_STYLES[rec.fit_level];
 
@@ -48,6 +54,51 @@ export default function RecommendationCard({ rank, rec }: RecommendationCardProp
 
   const employerCount = Array.isArray(dbRole.real_employers) ? dbRole.real_employers.length : 0;
   const sampleUrl = dbRole._meta?.sample_url;
+
+  const handleThumbUp = (e: React.MouseEvent) => {
+    e.stopPropagation();
+    if (thumbState !== "idle") return;
+    setThumbState("thumbed-up");
+    sendThumbEvent({
+      role_id: rec.role_id,
+      role_title: dbRole.title,
+      fit_level: rec.fit_level,
+      fit_score: rec.fit_score,
+      thumb_value: "up",
+      user_summary: userSummary,
+    });
+  };
+
+  const handleThumbDown = (e: React.MouseEvent) => {
+    e.stopPropagation();
+    if (thumbState !== "idle") return;
+    setThumbState("comment-pending");
+  };
+
+  const handleSubmitComment = () => {
+    setThumbState("thumbed-down");
+    sendThumbEvent({
+      role_id: rec.role_id,
+      role_title: dbRole.title,
+      fit_level: rec.fit_level,
+      fit_score: rec.fit_score,
+      thumb_value: "down",
+      comment: commentText.trim(),
+      user_summary: userSummary,
+    });
+  };
+
+  const handleSkipComment = () => {
+    setThumbState("thumbed-down");
+    sendThumbEvent({
+      role_id: rec.role_id,
+      role_title: dbRole.title,
+      fit_level: rec.fit_level,
+      fit_score: rec.fit_score,
+      thumb_value: "down",
+      user_summary: userSummary,
+    });
+  };
 
   return (
     <div className="overflow-hidden rounded-xl border border-slate-200 bg-white transition hover:border-slate-300">
@@ -88,9 +139,77 @@ export default function RecommendationCard({ rank, rec }: RecommendationCardProp
               {rec.why_this_fits}
             </p>
 
-            <p className="mt-3 text-xs text-slate-400">
-              {expanded ? "Tap to collapse ↑" : "Tap to see why →"}
-            </p>
+            {/* Bottom row: interactivity hint + thumbs */}
+            <div className="mt-3 flex items-center justify-between">
+              <p className="text-xs text-slate-400">
+                {expanded ? "Tap to collapse ↑" : "Tap to see why →"}
+              </p>
+
+              {/* Thumbs cluster — prevents click bubbling to card-expand */}
+              <div className="flex items-center gap-1" onClick={(e) => e.stopPropagation()}>
+                {thumbState === "idle" && (
+                  <>
+                    <button
+                      type="button"
+                      onClick={handleThumbUp}
+                      aria-label="Mark this recommendation as a good fit"
+                      className="rounded-full px-2 py-1 text-base text-slate-400 transition hover:bg-emerald-50 hover:text-emerald-700"
+                    >
+                      👍
+                    </button>
+                    <button
+                      type="button"
+                      onClick={handleThumbDown}
+                      aria-label="Mark this recommendation as not a good fit"
+                      className="rounded-full px-2 py-1 text-base text-slate-400 transition hover:bg-red-50 hover:text-red-700"
+                    >
+                      👎
+                    </button>
+                  </>
+                )}
+                {thumbState === "thumbed-up" && (
+                  <span className="text-xs text-emerald-700">👍 Thanks!</span>
+                )}
+                {thumbState === "thumbed-down" && (
+                  <span className="text-xs text-red-700">👎 Recorded</span>
+                )}
+              </div>
+            </div>
+
+            {/* Comment box for 👎 */}
+            {thumbState === "comment-pending" && (
+              <div
+                className="mt-3 rounded-lg border border-red-200 bg-red-50 p-3"
+                onClick={(e) => e.stopPropagation()}
+              >
+                <p className="text-xs font-medium text-red-900">
+                  Quick note? What was off about this recommendation? (optional)
+                </p>
+                <textarea
+                  value={commentText}
+                  onChange={(e) => setCommentText(e.target.value)}
+                  placeholder="e.g., wrong function, wrong level, not a fit for my situation..."
+                  rows={2}
+                  className="mt-2 w-full rounded border border-red-200 bg-white p-2 text-sm text-slate-900 placeholder:text-slate-400 focus:border-red-500 focus:outline-none"
+                />
+                <div className="mt-2 flex items-center gap-2">
+                  <button
+                    type="button"
+                    onClick={handleSubmitComment}
+                    className="rounded-full bg-red-700 px-3 py-1 text-xs font-medium text-white transition hover:bg-red-800"
+                  >
+                    Send
+                  </button>
+                  <button
+                    type="button"
+                    onClick={handleSkipComment}
+                    className="text-xs text-slate-500 transition hover:text-slate-900"
+                  >
+                    Skip
+                  </button>
+                </div>
+              </div>
+            )}
           </div>
         </div>
       </button>

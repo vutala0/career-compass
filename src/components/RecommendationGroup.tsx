@@ -7,6 +7,7 @@ interface RecommendationGroupProps {
   level: Agent1Recommendation["fit_level"];
   recommendations: Agent1Recommendation[];
   startingRank: number;
+  userSummary: string;
 }
 
 const GROUP_HEADERS: Record<Agent1Recommendation["fit_level"], { label: string; subtitle: string }> = {
@@ -24,7 +25,7 @@ const GROUP_HEADERS: Record<Agent1Recommendation["fit_level"], { label: string; 
   },
 };
 
-export default function RecommendationGroup({ level, recommendations, startingRank }: RecommendationGroupProps) {
+export default function RecommendationGroup({ level, recommendations, startingRank, userSummary }: RecommendationGroupProps) {
   if (recommendations.length === 0) return null;
 
   const header = GROUP_HEADERS[level];
@@ -44,6 +45,7 @@ export default function RecommendationGroup({ level, recommendations, startingRa
             key={rec.role_id}
             rank={startingRank + idx}
             rec={rec}
+            userSummary={userSummary}
           />
         ))}
       </div>
