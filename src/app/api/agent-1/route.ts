@@ -9,6 +9,7 @@ import {
 } from "@/lib/agent-1-prompt";
 import { UserProfile } from "@/lib/profile-storage";
 import rolesData from "@/data/roles.json";
+export const maxDuration = 60;
 
 const apiKey = process.env.GEMINI_API_KEY;
 const MODEL = "gemini-2.5-flash";
